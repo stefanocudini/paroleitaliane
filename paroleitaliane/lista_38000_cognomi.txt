@@ -23,6 +23,7 @@ Abatiscianni
 Abazia
 Abba
 Abba'
+Abbà
 Abbadelli
 Abbadessa
 Abbado
@@ -494,7 +495,9 @@ Airaldo
 Airasca
 Airaudi
 Airaudo
+Airo
 Airo'
+Airò
 Airola
 Airoldi
 Airoldo
@@ -555,6 +558,8 @@ Albari
 Albasini
 Albe
 Albe'
+Albé
+Albè
 Albenga
 Albenzi
 Albenzio
@@ -776,7 +781,9 @@ Algozini
 Algozino
 Algozzini
 Algozzino
+Ali
 Ali'
+Alì
 Aliani
 Aliano
 Aliardi
@@ -910,7 +917,9 @@ Almonte
 Almonti
 Alni
 Alno
+Alo
 Alo'
+Alò
 Alocchi
 Aloe
 Aloi
@@ -978,7 +987,9 @@ Altosinno
 Altoviti
 Altruda
 Altura
+Alu
 Alu'
+Alù
 Aluigi
 Aluisi
 Aluisio
@@ -1006,19 +1017,20 @@ Alvito
 Alzate
 Alzati
 Alzetta
-Alì
 Amabile
 Amabili
 Amadasi
 Amaddeo
 Amaddii
 Amaddio
+Amadè
 Amadei
 Amadelli
 Amadeo
 Amadesi
 Amadi
 Amadini
+Amadini  Dup
 Amadio
 Amadore
 Amadori
@@ -1029,7 +1041,6 @@ Amadu
 Amaducci
 Amaduri
 Amaduzzi
-Amadè
 Amalberti
 Amalberto
 Amalfi
@@ -1110,9 +1121,9 @@ Ambrosoli
 Ambruoso
 Ambu
 Amedali
+Amedè
 Amedei
 Amedeo
-Amedè
 Amegli
 Ameglio
 Ameletti
@@ -1253,6 +1264,8 @@ Andorni
 Andorno
 Andrade
 Andre
+André
+Andrè
 Andrea
 Andreacchio
 Andreacci
@@ -1309,8 +1322,6 @@ Andriulo
 Andriuolo
 Andronico
 Andrusiani
-Andrè
-André
 Anedda
 Anela
 Anella
@@ -1869,7 +1880,9 @@ Argese
 Argiola
 Argiolas
 Argiolu
+Argiro
 Argiro'
+Argirò
 Argondizza
 Argondizzo
 Argurio
@@ -1885,6 +1898,7 @@ Arici
 Arico
 Arico'
 AricÓ
+Aricò
 Ariente
 Arienti
 Arienzale
@@ -1895,8 +1909,8 @@ Arietta
 Arietti
 Arigliani
 Arigliano
-Arigotti
 Arigò
+Arigotti
 Ariis
 Arinaldi
 Aringhieri
@@ -2006,6 +2020,7 @@ Arneudo
 Arni
 Arno
 Arno'
+Arnò
 Arnod
 Arnoffi
 Arnold
@@ -2228,9 +2243,9 @@ Atria
 Atta
 Attaguile
 Attana
+Attanà
 Attanasi
 Attanasio
-Attanà
 Attardi
 Attardo
 Atteni
@@ -2825,6 +2840,7 @@ Balestrino
 Balestro
 Bali
 Bali'
+Balì
 Balia
 Balic
 Balicchi
@@ -3087,7 +3103,10 @@ Barbatosta
 Barbatti
 Barbazza
 Barbazzi
+Barbe
 Barbe'
+Barbé
+Barbè
 Barbera
 Barberi
 Barberini
@@ -3210,17 +3229,17 @@ Barigliano
 Barigozzi
 Barila
 Barila'
+Barilà
 Barilari
 Barilaro
 Barile
 Barili
 Barilla
 Barilla'
+Barillà
 Barillari
 Barillaro
 Barilli
-Barillà
-Barilà
 Barioni
 Bariselli
 Barison
@@ -3245,9 +3264,14 @@ Barmini
 Barna
 Barna'
 Barnaba
+Barnabe
 Barnabe'
+Barnabé
+Barnabè
 Barnabei
+Barnabo
 Barnabo'
+Barnabò
 Barnava
 Barni
 Barnieri
@@ -3387,7 +3411,10 @@ Basani
 Basanisi
 Basari
 Basarri
+Bascape
 Bascape'
+Bascapé
+Bascapè
 Baschenis
 Baschi
 Baschiazzorre
@@ -3410,6 +3437,7 @@ Basili
 Basilicata
 Basilico
 Basilico'
+Basilicò
 Basilio
 Basilone
 Basini
@@ -3537,6 +3565,7 @@ Battolu
 Batzella
 Bau
 Bau'
+Baù
 Bauce
 Bauco
 Bauda
@@ -3777,6 +3806,7 @@ Belletto
 Bellezza
 Belli
 Bellia
+BellÍa
 Belliboni
 Bellicchi
 Bellifemine
@@ -3848,7 +3878,6 @@ Belluti
 Belluto
 Belluzzi
 Belluzzo
-BellÍa
 Belmessieri
 Belmondo
 Belmonte
@@ -3882,6 +3911,7 @@ Belvisi
 Belviso
 Bembo
 Bena
+Benà
 Benacchio
 Benaccolto
 Benadduce
@@ -3902,8 +3932,8 @@ Benassati
 Benassi
 Benassini
 Benasso
-Benassuti
 Benassù
+Benassuti
 Benatelli
 Benati
 Benato
@@ -3984,6 +4014,7 @@ Beninati
 Beninato
 Beninca
 Beninca'
+Benincà
 Benincasa
 Benini
 Benino
@@ -4045,7 +4076,6 @@ Benzo
 Benzon
 Benzone
 Benzoni
-Benà
 Beo
 Beolchi
 Beorchia
@@ -4138,11 +4168,14 @@ Berloco
 Berlucchi
 Berlusconi
 Berna
+Bernabe
 Bernabe'
+Bernabé
+Bernabè
 Bernabei
 Bernabini
-Bernabovi
 BernabÓ
+Bernabovi
 Bernacchi
 Bernacchia
 Bernacchini
@@ -4181,13 +4214,13 @@ Bernieri
 Bernini
 Bernizzoni
 Berno
+Bernò
 Bernocchi
 Bernocco
 Bernola
 Bernucci
 Bernuzzi
 Bernuzzo
-Bernò
 Beroldi
 Beroldo
 Berra
@@ -4257,6 +4290,8 @@ Bertazzoli
 Bertazzoni
 Berte
 Berte'
+Berté
+Bertè
 Bertea
 Bertella
 Bertelle
@@ -4335,6 +4370,7 @@ Bertorella
 Bertorelli
 Bertorello
 Bertos
+BertÒs
 Bertossi
 Bertossio
 Bertosso
@@ -4360,7 +4396,6 @@ Bertuol
 Bertuolo
 Bertuzzi
 Bertuzzo
-BertÒs
 Beruti
 Beruto
 Berutti
@@ -4372,7 +4407,10 @@ Besalduch
 Besana
 Besani
 Besca
+Bescape
 Bescape'
+Bescapé
+Bescapè
 Beschi
 Besco
 Besi
@@ -4405,7 +4443,10 @@ Bettati
 Bettazza
 Bettazzi
 Bettazzo
+Bette
 Bette'
+Betté
+Bettè
 Bettega
 Bettella
 Bettelli
@@ -4543,7 +4584,9 @@ Biazzi
 Biazzo
 Bibbiani
 Bibbiano
+Bibbo
 Bibbo'
+Bibbò
 Bibini
 Bibiri
 Biblico
@@ -4647,6 +4690,7 @@ Biliardi
 Bilibio
 Billai
 Bille'
+BillÉ
 Billeci
 Billera
 Billeri
@@ -4654,9 +4698,9 @@ Billero
 Billi
 Billo
 Billo'
+Billò
 Billone
 Billoni
-BillÉ
 Bilotta
 Bilotti
 Bilotto
@@ -4919,6 +4963,7 @@ Blundo
 Blunno
 Bo
 Bo'
+Bò
 Boar
 Boara
 Boaretti
@@ -5178,6 +5223,8 @@ Bonadonna
 Bonaduce
 Bonafe
 Bonafe'
+Bonafé
+Bonafè
 Bonafede
 Bonaffine
 Bonaffini
@@ -5416,11 +5463,11 @@ Bonsignore
 Bonsignori
 Bonso
 Bonta'
+Bontà
 Bontempelli
 Bontempi
 Bontempo
 Bonturi
-Bontà
 Bonuccelli
 Bonucci
 Bonucelli
@@ -5663,6 +5710,7 @@ Borzacchiello
 Borzelli
 Borzi
 Borzi'
+Borzì
 Borzilli
 Borzillo
 Borzini
@@ -5751,6 +5799,7 @@ Botrugno
 Bott
 Botta
 Botta'
+Bottà
 Bottacin
 Bottai
 Bottaioli
@@ -6736,7 +6785,10 @@ Busincu
 Businelli
 Busiol
 Buslacchi
+Busne
 Busne'
+Busné
+Busnè
 Busnelli
 Buso
 Busolin
@@ -6779,6 +6831,7 @@ Buti
 Butini
 Butta
 Butta'
+Buttà
 Buttafava
 Buttafochi
 Buttafoco
@@ -6931,6 +6984,7 @@ Caeta
 Caetani
 Caetano
 Cafa'
+Cafà
 Cafagna
 Cafarella
 Cafarelli
@@ -6953,7 +7007,6 @@ Caffo
 Cafieri
 Cafiero
 Caforio
-Cafà
 Cageci
 Cageggi
 Cagegi
@@ -7038,6 +7091,8 @@ Cajazza
 Cajazzo
 Cajumi
 Cal
+Calà
+CalÀ
 Calabrese
 Calabresi
 Calabretta
@@ -7048,9 +7103,11 @@ Calabritta
 Calabritto
 Calabro
 Calabro'
+Calabrò
 Calaciura
 Calafa
 Calafa'
+Calafà
 Calafata
 Calafati
 Calafato
@@ -7095,6 +7152,7 @@ Calascibetta
 Calassi
 Calasso
 Calata
+Calatà
 Calatabiano
 Calati
 Calatina
@@ -7102,7 +7160,6 @@ Calato
 Calatro
 Calatrone
 Calatroni
-Calatà
 Calbi
 Calbini
 Calbo
@@ -7163,6 +7220,7 @@ Caldognetto
 Caldogno
 Caldonazzi
 Caldonazzo
+Calè
 Caleca
 Calef
 Caleffa
@@ -7179,6 +7237,7 @@ Calgari
 Calgaro
 Cali
 Cali'
+Calì
 Calia
 Calian
 Caliandro
@@ -7210,6 +7269,7 @@ Calini
 Calino
 Calio
 Calio'
+Caliò
 Caliolo
 Calipa
 Calipari
@@ -7226,6 +7286,7 @@ Calitri
 Calizzi
 Calla
 Calla'
+Callà
 Callara
 Callari
 Callaro
@@ -7256,6 +7317,7 @@ Calmi
 Calmo
 Calo
 Calo'
+Calò
 Calofaro
 Calogeri
 Calogero
@@ -7325,9 +7387,6 @@ Calzolari
 Calzolaro
 Calzone
 Calzoni
-CalÀ
-Calà
-Calè
 Cama
 Camagna
 Camagni
@@ -7363,7 +7422,10 @@ Cambiale
 Cambiali
 Cambiasi
 Cambiaso
+Cambie
 Cambie'
+Cambié
+Cambiè
 Cambielli
 Cambieri
 Cambini
@@ -7602,6 +7664,7 @@ Candida
 Candidi
 Candido
 Candila
+CandÌla
 Candilora
 Candiloro
 Candini
@@ -7624,7 +7687,6 @@ Canducci
 Canduscio
 Candussi
 Candussio
-CandÌla
 Cane
 Cane'
 Canegalli
@@ -7689,20 +7751,25 @@ Canio
 Canipari
 Caniparo
 Canisi
+Canistra
 Canistra'
+Canistrà
 Canistraro
 Canizzaro
 Canizzo
 Canna
+Cannaò
 Cannara
 Cannas
 Cannata
 Cannata'
+Cannatà
 Cannataro
 Cannatella
 Cannatelli
 Cannatello
 Cannatiello
+Cannavà
 Cannavaccio
 Cannavacciolo
 Cannavacciuoli
@@ -7713,8 +7780,7 @@ Cannavaro
 Cannaviello
 Cannavo
 Cannavo'
-Cannavà
-Cannaò
+Cannavò
 Canne
 Cannea
 Canneddu
@@ -7730,7 +7796,9 @@ Cannetti
 Cannetto
 Canneva
 Canniello
+Cannistra
 Cannistra'
+Cannistrà
 Cannistraro
 Cannizzaro
 Cannizzo
@@ -7810,7 +7878,9 @@ Cantore
 Cantoreggi
 Cantori
 Cantoro
+Cantu
 Cantu'
+Cantù
 Canu
 Canudo
 Canuti
@@ -8232,8 +8302,9 @@ Carfagnino
 Carfagno
 Carfi
 Carfi'
-Carfora
+Carfì
 CarfÌ
+Carfora
 Cargnel
 Cargnelli
 Cargnello
@@ -8432,6 +8503,7 @@ Carputi
 Carputo
 Carra
 Carra'
+Carrà
 Carrabs
 Carracoi
 Carrada
@@ -8451,6 +8523,7 @@ Carrata
 Carrato
 Carratu
 Carratu'
+Carratù
 Carrau
 Carravieri
 Carrer
@@ -8470,6 +8543,7 @@ Carriero
 Carrino
 Carrise
 Carrisi
+Carrisi Dup
 Carrisio
 Carro
 Carrobbio
@@ -8838,6 +8912,7 @@ Castri
 Castriciano
 Castrignano
 Castrignano'
+Castrignanò
 Castrillo
 Castrini
 Castrino
@@ -9004,7 +9079,9 @@ Cava
 Cavacciuti
 Cavacece
 Cavadini
+Cavaglia
 Cavaglia'
+Cavaglià
 Cavagna
 Cavagnari
 Cavagnaro
@@ -9014,7 +9091,9 @@ Cavagnoli
 Cavagnolo
 Cavalazzi
 Cavalca
+Cavalcabo
 Cavalcabo'
+Cavalcabò
 Cavalcante
 Cavalcanti
 Cavaler
@@ -9784,11 +9863,16 @@ Chigi
 Chignola
 Chignoli
 Chilelli
+Chille
 Chille'
+Chillé
+Chillè
 Chillemi
 Chillon
 Chilloni
+Chilo
 Chilo'
+Chilò
 Chimenti
 Chimento
 Chimera
@@ -9857,6 +9941,7 @@ Chireleison
 Chiri
 Chiriaco
 Chiriaco'
+Chiriacò
 Chiriatti
 Chiriatto
 Chirici
@@ -9891,6 +9976,7 @@ Chito
 Chitti
 Chitto
 Chitto'
+Chittò
 Chiucchi
 Chiucconi
 Chiuch
@@ -10278,6 +10364,7 @@ Ciquera
 Cira
 Ciraci
 Ciraci'
+Ciracì
 Ciraco
 Ciraldi
 Ciraldo
@@ -10476,6 +10563,7 @@ Cludi
 Clun
 Co
 Co'
+Cò
 Coana
 Coati
 Coato
@@ -10532,7 +10620,9 @@ Coddura
 Code
 Codebo
 Codebo'
+Codeca
 Codeca'
+Codecà
 Codecasa
 Codega
 Codeghini
@@ -10723,11 +10813,13 @@ Collovati
 Collu
 Collura
 Collura'
+Collurà
 Colmegna
 Colnaghi
 Colnago
 Colo
 Colo'
+Colò
 Colocresi
 Colofeo
 Cologna
@@ -10799,7 +10891,9 @@ Comand
 Comande'
 Comandi
 Comandini
+Comandu
 Comandu'
+Comandù
 Comaro
 Comaroli
 Comaschi
@@ -10905,13 +10999,16 @@ Condello
 Condemi
 Condipodaro
 Condipodero
+Condo
 Condo'
+Condò
 Condoleo
 Condoluci
 Condorelli
 Condosta
 Condro
 Condro'
+Condrò
 Coneglian
 Conegliani
 Conegliano
@@ -10978,7 +11075,6 @@ Contarini
 Contarino
 Contartese
 Conte
-Conte Rosito
 Conteduca
 Contegno
 Contenta
@@ -10990,6 +11086,7 @@ Conteri
 Conterio
 Conterno
 Conterosito
+Conte Rosito
 Contessa
 Conti
 Contieri
@@ -11169,6 +11266,7 @@ Cornia
 Cornigliaro
 Corno
 Coro'
+Corò
 Corodda
 Coroli
 Corona
@@ -11219,9 +11317,9 @@ Corria
 Corrias
 Corridoni
 Corridori
+Corrò
 Corru
 Corru'
-Corrò
 Corsa
 Corsale
 Corsano
@@ -11297,7 +11395,6 @@ Corvina
 Corvini
 Corvino
 Corvo
-Corò
 Cos
 Cosca
 Coscarella
@@ -11453,6 +11550,7 @@ Crapanzano
 Crapulli
 Crasci
 Crasci'
+Crascì
 Crast
 Crasta
 Crastan
@@ -11810,7 +11908,9 @@ Cumino
 Cummo
 Cuna
 Cundari
+Cundo
 Cundo'
+Cundò
 Cundro'
 Cunegati
 Cunegato
@@ -11892,6 +11992,7 @@ Currau
 Curreli
 Curri
 Curridori
+Curro
 Curro'
 Currò
 Cursietti
@@ -11939,6 +12040,7 @@ Cuto
 Cutolo
 Cutone
 Cutrignelli
+Cutrò
 Cutrona
 Cutrone
 Cutronei
@@ -11949,7 +12051,6 @@ Cutrufelli
 Cutrufo
 Cutrupi
 Cutrupia
-Cutrò
 Cuttaia
 Cuttica
 Cuttini
@@ -11965,328 +12066,94 @@ Cuzzuol
 Cuzzupe
 Cuzzupe'
 Cuzzupoli
-D Angio'
+Da Bariano
+Dabbene
+Dabbeni
+Dabellani
+Da Bo
+Da Bo'
+Da Bò
 D'Abronzo
 D'Abrosca
 D'Accardo
+Dacchille
 D'Acchille
+Dacco
+Dacco'
+Daccò
 D'Accorso
 D'Accurso
-D'Achille
-D'Acquino
-D'Acquisto
-D'Acunto
-D'Adamio
-D'Adamo
-D'Adda
-D'Addabbo
-D'Addamio
-D'Addario
-D'Addio
-D'Afflitto
-D'Afiero
-D'Agaro
-D'Agata
-D'Agazio
-D'Agnello
-D'Agnese
-D'Agni
-D'Agnolo
-D'Agostini
-D'Agostino
-D'Agosto
-D'Agrezia
-D'Aguanno
-D'Aiello
-D'Aiuto
-D'Ajello
-D'Alba
-D'Albero
-D'Alberti
-D'Alcamo
-D'Alema
-D'Alena
-D'Aleo
-D'Alessandro
-D'Alessio
-D'Alfonso
-D'Alfonzo
-D'Ali'
-D'Alife
-D'Alise
-D'Alisera
-D'Alo'
-D'Aloi
-D'Aloia
-D'Aloisio
-D'Aloja
-D'Alonso
-D'Alonzo
-D'Alterio
-D'Altiero
-D'Altobrando
-D'Alu'
-D'Aluisio
-D'Alò
-D'Amaddio
-D'Amadio
-D'Amante
-D'Amanti
-D'Amario
-D'Amati
-D'Amato
-D'Ambra
-D'Ambrini
-D'Ambrosi
-D'Ambrosio
-D'Ambruosi
-D'Ambruoso
-D'Ameglio
-D'Amelia
-D'Amelio
-D'Amerio
-D'Amici
-D'Amicis
-D'Amico
-D'Amicodatri
-D'Amodio
-D'Amone
-D'Amore
-D'Amuri
-D'Anania
-D'Anastasio
-D'Ancona
-D'Andolfo
-D'Andrade
-D'Andrea
-D'Andreis
-D'Andria
-D'Anese
-D'Angela
-D'Angelantonio
-D'Angeli
-D'Angelillo
-D'Angelis
-D'Angella
-D'Angelo
-D'Aniello
-D'Anise
-D'Anisi
-D'Anna
-D'Annibale
-D'Annunzio
-D'Antino
-D'Anto
-D'Anto'
-D'Antona
-D'Antone
-D'Antoni
-D'Antonio
-D'Antuono
-D'Anzi
-D'Apollonio
-D'Aponte
-D'Aprea
-D'Aprile
-D'Aquanno
-D'Aqui'
-D'Aquila
-D'Aquino
-D'Aragona
-D'Arcangelo
-D'Arco
-D'Ardia
-D'Arena
-D'Argenio
-D'Aria
-D'Arienzo
-D'Arma
-D'Armento
-D'Armiento
-D'Arpa
-D'Arpizio
-D'Arrigo
-D'Arsie
-D'Arsie'
-D'Ascanio
-D'Ascenzi
-D'Ascenzio
-D'Ascenzo
-D'Ascia
-D'Ascoli
-D'Asero
-D'Astolfi
-D'Astolfo
-D'Atena
-D'Atri
-D'Atria
-D'Attanasio
-D'Aubert
-D'Audino
-D'Aureli
-D'Aurelio
-D'Auria
-D'Aurilia
-D'Ausilio
-D'Autilia
-D'Autilio
-D'Avanzo
-D'Avella
-D'Avenia
-D'Aversa
-D'Avini
-D'Avino
-D'Avoglio
-D'Avola
-D'Avoli
-D'Avolio
-D'Avossa
-D'Azeglio
-D'Azzi
-D'Azzo
-D'Elia
-D'Elias
-D'Eligio
-D'Elisi
-D'Eliso
-D'Emanuele
-D'Emidi
-D'Emidio
-D'Episcopo
-D'Eramo
-D'Ercole
-D'Ercoli
-D'Erminio
-D'Errico
-D'Errigo
-D'Esposito
-D'Este
-D'Ettore
-D'Ettorre
-D'Eugenio
-D'Eusanio
-D'Eustacchio
-D'Eustachio
-D'Herin
-D'Ianni
-D'Ignazi
-D'Ignazio
-D'Ignoti
-D'Ignoti Parenti
-D'Imperio
-D'Impero
-D'Incalci
-D'Innocenzo
-D'Inverno
-D'Iorio
-D'Ippolito
-D'Isa
-D'Isidori
-D'Isidoro
-D'Isola
-D'Italia
-D'Itri
-D'Ivano
-D'Izzia
-D'Onghia
-D'Onise
-D'Onisi
-D'Onofrio
-D'Orazio
-D'Oria
-D'Orlandi
-D'Orlando
-D'Oro
-D'Oronzo
-D'Orrio
-D'Orsi
-D'Orso
-D'Orta
-D'Ortona
-D'Ospina
-D'Ostuni
-D'Ursi
-D'Urso
-D'Uva
-Da Bariano
-Da Bo'
 Da Cerreto
 Da Cha
+Dachille
+D'Achille
+Dacol
 Da Col
+Dacomi
+Dacomo
 Da Como
 Da Correggio
 Da Corte
 Da Costa
+D'Acquino
+D'Acquisto
+D'Acunto
+Dadalt
 Da Dalt
 Da Dalto
-Da Dio
-Da Forno
-Da Fre'
-Da Gradi
-Da Malta
-Da Maren
-Da Mosto
-Da Olio
-Da Palude
-Da Pit
-Da Polenta
-Da Pos
-Da Pozzo
-Da Pra
-Da Pra'
-Da Prela'
-Da Re
-Da Re'
-Da Rio
-Da Riz
-Da Rodda
-Da Rold
-Da Rolt
-Da Ronco
-Da Ros
-Da Ru
-Da Ru'
-Da Ruos
-Da Valle
-Da Venezia
-Da Vinci
-Dabbene
-Dabbeni
-Dabellani
-Dacchille
-Dacco'
-Dachille
-Dacol
-Dacomi
-Dacomo
-Dadalt
+D'Adamio
+D'Adamo
 Dadda
+D'Adda
+D'Addabbo
+D'Addamio
 Daddario
+D'Addario
+D'Addio
 Dadie'
+Da Dio
 Dadone
 Daelli
+D'Afflitto
 Daffonchio
+D'Afiero
+Da Forno
 Dafre'
+Da Fre'
 Daga
+D'Agaro
+D'Agata
+D'Agazio
 Daggiano
 Daglia
 Dagna
 Dagnano
+D'Agnello
 Dagnese
+D'Agnese
+D'Agni
 Dagnini
 Dagnino
+D'Agnolo
 Dagostini
+D'Agostini
 Dagostino
+D'Agostino
+D'Agosto
 Dagradi
+Da Gradi
 Dagrezia
+D'Agrezia
 Dagrezio
 Daguanno
+D'Aguanno
 Daguati
 Daho'
-Dai Campi
 Daicampi
+Dai Campi
 Daidone
 Daielli
+D'Aiello
 Daina
 Dainese
 Dainesi
@@ -12295,41 +12162,151 @@ Daino
 Dainotti
 Dainotto
 Dairaghi
+D'Aiuto
 Dajelli
+D'Ajello
+Dalai
+D'Alba
 Dal Balcon
+Dalbello
 Dal Bello
+Dalben
 Dal Ben
+D'Albero
+D'Alberti
 Dal Bianco
 Dal Bo
 Dal Bo'
+Dal Bò
+Dalbon
 Dal Borgo
 Dal Bosco
 Dal Brollo
+D'Alcamo
 Dal Canal
 Dal Canto
 Dal Canton
 Dal Castel
 Dal Castello
 Dal Cero
+Dalcin
 Dal Cin
 Dal Corso
 Dal Degan
+Daldin
 Dal Din
 Dal Doss
+Daldossi
+Daldosso
 Dal Dosso
+Dalema
+D'Alema
+Dalemmo
+Dalena
+D'Alena
+D'Aleo
+Dalessandro
+D'Alessandro
+D'Alessio
+Dalfini
+Dalfino
 Dal Fiume
+D'Alfonso
+D'Alfonzo
 Dal Forno
+Dalfovo
 Dal Grande
+D'Ali'
+D'Alife
+D'Alise
+D'Alisera
+Dalla
+Dalla Bona
+Dallabora
+Dallacasa
+Dalla Casa
+Dalla Chiesa
+Dalla Colletta
+Dalla Corte
+Dallacosta
+Dalla Costa
+Dallacqua
+Dall'Acqua
+Dalla Croce
+Dalla Fratta
+Dall'Agata
+Dall'Aglio
+Dall'Agnol
 Dal Lago
+Dalla Guarda
+Dalla Libera
+Dalla Longa
+Dalla Lunga
+Dalla Marta
+Dalla Monica
+Dalla Monta
+Dalla Monta'
+Dalla Noce
+Dall'Antonia
+Dalla Pasqua
+Dalla Porta
+Dallara
+Dall'Ara
+Dallari
+Dalla Riva
+Dalla Rovere
+Dalla Santa
+Dall'Asen
+Dall'Asta
+Dalla Torre
+Dalla Turca
+Dall'Ava
+Dalla Val
+Dallavalle
+Dalla Valle
+Dalla Vecchia
+Dalla Vedova
+Dalla Zuanna
+Dalle Ave
+Dalle Fratte
+Dalle Grave
+Dallera
+Dall'Era
+Dall'Erba
+Dalle Rive
+Dalle Vedove
+Dall'Igna
+Dalloglio
+Dall'Oglio
+Dallolio
+Dall'Olio
+Dall'Ora
+Dallorso
+Dall'Orso
+Dall'Orto
+Dall'Osso
 Dal Magro
 Dal Mas
+Dalmasi
+Dalmasio
+Dalmaso
 Dal Maso
+Dalmasso
 Dal Medico
 Dal Molin
 Dal Monego
+Dalmonte
 Dal Monte
 Dal Moro
 Dal Negro
+D'Alo'
+D'Alò
+D'Aloi
+D'Aloia
+D'Aloisio
+D'Aloja
+D'Alonso
+D'Alonzo
 Dal Piaz
 Dal Pino
 Dal Pio
@@ -12340,117 +12317,58 @@ Dal Pos
 Dal Pozzo
 Dal Pra
 Dal Pra'
+Dal Prà
 Dal Rio
 Dal Santo
 Dal Sie
 Dal Sillaro
-Dal Torrione
-Dal Toso
-Dal Verme
-Dal Vit
-Dal Zotto
-Dal Zovo
-Dalai
-Dalbello
-Dalben
-Dalbon
-Dalcin
-Daldin
-Daldossi
-Daldosso
-Dalema
-Dalemmo
-Dalena
-Dalessandro
-Dalfini
-Dalfino
-Dalfovo
-Dall'Acqua
-Dall'Agata
-Dall'Aglio
-Dall'Agnol
-Dall'Antonia
-Dall'Ara
-Dall'Asen
-Dall'Asta
-Dall'Ava
-Dall'Era
-Dall'Erba
-Dall'Igna
-Dall'Oglio
-Dall'Olio
-Dall'Ora
-Dall'Orso
-Dall'Orto
-Dall'Osso
-Dalla
-Dalla Bona
-Dalla Casa
-Dalla Chiesa
-Dalla Colletta
-Dalla Corte
-Dalla Costa
-Dalla Croce
-Dalla Fratta
-Dalla Guarda
-Dalla Libera
-Dalla Longa
-Dalla Lunga
-Dalla Marta
-Dalla Monica
-Dalla Monta
-Dalla Monta'
-Dalla Noce
-Dalla Pasqua
-Dalla Porta
-Dalla Riva
-Dalla Rovere
-Dalla Santa
-Dalla Torre
-Dalla Turca
-Dalla Val
-Dalla Valle
-Dalla Vecchia
-Dalla Vedova
-Dalla Zuanna
-Dallabora
-Dallacasa
-Dallacosta
-Dallacqua
-Dallara
-Dallari
-Dallavalle
-Dalle Ave
-Dalle Fratte
-Dalle Grave
-Dalle Rive
-Dalle Vedove
-Dallera
-Dalloglio
-Dallolio
-Dallorso
-Dalmasi
-Dalmasio
-Dalmaso
-Dalmasso
-Dalmonte
 Dalt
+D'Alterio
+D'Altiero
 Daltin
 Dalto
+D'Altobrando
+Dal Torrione
+Dal Toso
+D'Alu'
+D'Aluisio
+Dal Verme
 Dalvit
+Dal Vit
+Dal Zotto
 Dalzovo
+Dal Zovo
+D'Amaddio
+D'Amadio
+Da Malta
 Damante
+D'Amante
 Damanti
+D'Amanti
+Da Maren
+D'Amario
 Damascelli
 Damaschi
 Damaschini
 Damaschino
 Damasco
 Damati
+D'Amati
 Damato
+D'Amato
+D'Ambra
+D'Ambrini
+D'Ambrosi
+D'Ambrosio
+D'Ambruosi
+D'Ambruoso
+D'Ameglio
+D'Amelia
+D'Amelio
 Dameno
 Dameri
 Damerio
+D'Amerio
 Dametti
 Damia
 Damian
@@ -12459,14 +12377,31 @@ Damiano
 Damiata
 Damiati
 Damiato
+D'Amici
+D'Amicis
 Damico
+D'Amico
+D'Amicodatri
 Damin
 Damini
+D'Amodio
+D'Amone
 Damonte
 Damore
+D'Amore
+Da Mosto
+D'Amuri
 Danania
+D'Anania
+D'Anastasio
+D'Ancona
 Dandolfo
+D'Andolfo
+D'Andrade
+D'Andrea
+D'Andreis
 Dandria
+D'Andria
 Danelin
 Danelli
 Danelon
@@ -12474,11 +12409,20 @@ Danelut
 Daneri
 Danero
 Danese
+D'Anese
 Danesi
 Danesini
 Danetra
+D'Angela
+D'Angelantonio
+D'Angeli
+D'Angelillo
+D'Angelis
+D'Angella
 Dangelo
+D'Angelo
 Dangio'
+D Angio'
 Dani
 Daniel
 Daniela
@@ -12487,10 +12431,16 @@ Danieli
 Danielis
 Danielli
 Daniello
+D'Aniello
 Daniotti
 Danise
+D'Anise
 Danisi
+D'Anisi
 Danna
+D'Anna
+D'Annibale
+D'Annunzio
 Danova
 Danovaro
 Dante
@@ -12498,72 +12448,163 @@ Danti
 Dantile
 Dantini
 Dantino
+D'Antino
+D'Anto
+D'Anto'
 Dantona
+D'Antona
+D'Antone
 Dantoni
+D'Antoni
 Dantonio
+D'Antonio
+D'Antuono
 Danza
 Danzi
+D'Anzi
 Danzo
 Daoglio
 Daolio
+Da Olio
+Da Palude
 Dapas
 Dapei
 Dapiaggi
 Dapit
+Da Pit
+Da Polenta
+D'Apollonio
 Daponte
+D'Aponte
 Daporto
+Da Pos
+Da Pozzo
 Dapporto
+Da Pra
+Da Pra'
+Da Prà
 Daprea
+D'Aprea
 Daprela'
+Da Prela'
+D'Aprile
+D'Aquanno
+D'Aqui'
+D'Aquila
+D'Aquino
 Dara
+D'Aragona
+D'Arcangelo
 Darchi
 Darchini
 Darchino
 Darco
+D'Arco
 Dardani
 Dardano
 Dardi
+D'Ardia
 Dardo
 Dare
 Dare'
+Da Re
+Da Re'
+Daré
+Da Ré
+Darè
+Da Rè
 Darelli
 Darello
+D'Arena
 Dargenio
+D'Argenio
 Dari
+D'Aria
+D'Arienzo
 Dario
+Da Rio
 Dariz
+Da Riz
+D'Arma
 Darman
+D'Armento
 Darmian
+D'Armiento
+Da Rodda
+Da Rold
+Da Rolt
 Daronco
+Da Ronco
 Daros
+Da Ros
+D'Arpa
+D'Arpizio
+D'Arrigo
 Darsie
 Darsie'
+D'Arsie
+D'Arsie'
 Dartora
 Daru
 Daru'
+Da Ru
+Da Ru'
 Daruos
+Da Ruos
+D'Ascanio
+D'Ascenzi
+D'Ascenzio
+D'Ascenzo
+D'Ascia
 Dascoli
+D'Ascoli
 Dasero
+D'Asero
 Dassani
 Dassano
+Dasse
 Dasse'
+Dassé
+Dassè
 Dassiani
 Dassie
 Dassie'
+D'Astolfi
+D'Astolfo
 Data
+D'Atena
 Dati
 Dato
+D'Atri
+D'Atria
+D'Attanasio
 Dattilo
+D'Aubert
+D'Audino
+D'Aureli
+D'Aurelio
 Dauria
+D'Auria
+D'Aurilia
+D'Ausilio
+D'Autilia
+D'Autilio
 Davalle
+Da Valle
 Davanzati
 Davanzo
+D'Avanzo
+D'Avella
 Daven
+Da Venezia
 Davenia
+D'Avenia
 Daveri
 Daverio
+D'Aversa
 Davi
 Davi'
+Davì
 Davico
 David
 Davidde
@@ -12573,40 +12614,69 @@ Davidi
 Davighi
 Davigo
 Davin
+Da Vinci
 Davini
+D'Avini
 Davino
+D'Avino
 Davitti
+D'Avoglio
 Davola
+D'Avola
 Davoli
+D'Avoli
 Davolio
+D'Avolio
+D'Avossa
+D'Azeglio
 Dazieri
 Dazzi
+D'Azzi
 Dazziere
 Dazzieri
 Dazzo
+D'Azzo
 De Acetis
 De Adamich
+Deaddis
 De Addis
 De Agazio
+Deaglio
 De Agnoli
+Deagostini
 De Agostini
 De Agostinis
+Deagostino
 De Agostino
 De Albentiis
 De Alberti
+Deamici
 De Amici
+Deamicis
 De Amicis
 De Amico
+Dean
+Deana
 De Andrade
+De Andre
 De Andre'
+De André
+De Andrè
 De Andreis
 De Angeli
+Deangelis
 De Angelis
+Deani
+Deanna
 De Anna
+Deano
 De Antiquis
+Deantoni
 De Antoni
 De Antoniis
+Deantonio
 De Antonio
+Dearca
 De Arca
 De Arcangeli
 De Arcangelis
@@ -12625,7 +12695,9 @@ De Bartolo
 De Bartolomei
 De Bartolomeis
 De Bartolomeo
+Debattista
 De Battista
+Debattisti
 De Battisti
 De Bei
 De Bella
@@ -12651,17 +12723,23 @@ De Bianchi
 De Biase
 De Biasi
 De Biasio
+Debidda
 De Bidda
 De Bisogno
 De Blasi
 De Blasio
 De Blasis
 De Bo
+Debona
 De Bona
+Deboni
 De Boni
+Debonis
 De Bonis
+Debono
 De Bono
 De Borri
+Debortoli
 De Bortoli
 De Bosio
 De Bosis
@@ -12670,16 +12748,23 @@ De Bruno
 De Buglio
 De Buono
 De Campora
+Decandia
 De Candia
 De Candido
 De Canditiis
 De Canditis
+Decani
+Decanini
 De Canio
+Decano
 De Cao
+Decapitani
 De Capitani
 De Capua
 De Cara
+Decaria
 De Caria
+Decarli
 De Carli
 De Carlis
 De Carlo
@@ -12697,6 +12782,7 @@ De Cecilio
 De Cecio
 De Ceglia
 De Ceglie
+Decensi
 De Censi
 De Cerreto
 De Cesare
@@ -12708,14 +12794,19 @@ De Ciancio
 De Cicco
 De Cillis
 De Cillo
+Decima
+Decimi
+Decimo
 De Ciutiis
 De Clemente
 De Clementi
+Decol
 De Col
 De Conciliis
 De Concilio
 De Conno
 De Conti
+Decorato
 De Corato
 De Cosmi
 De Cosmis
@@ -12735,6 +12826,12 @@ De Cunto
 De Cupertinis
 De Curti
 De Curtis
+Dedda
+Dede
+Dede'
+Dedé
+Dedè
+Dedeo
 De Deo
 De Dilectis
 De Domenici
@@ -12746,7 +12843,9 @@ De Dominico
 De Donati
 De Donatis
 De Donato
+Dedoni
 De Donno
+Deduonni
 De Duonni
 De Duonno
 De Dura
@@ -12754,6 +12853,7 @@ De Fabi
 De Fabiani
 De Fabiis
 De Fabio
+Defabritiis
 De Fabritiis
 De Faccio
 De Falco
@@ -12763,18 +12863,29 @@ De Favero
 De Fazi
 De Fazio
 De Federici
+Defelice
 De Felice
 De Felici
 De Felicibus
+Defende
+Defendente
+Defendenti
+Defendi
 De Fendi
 De Fendis
 De Fent
+Defenu
+Defeo
 De Feo
 De Ferrari
 De Feudis
+Deffenu
 De Filicaia
+Defilippi
 De Filippi
+Defilippis
 De Filippis
+Defilippo
 De Filippo
 De Filitto
 De Filpo
@@ -12792,16 +12903,22 @@ De Folca
 De Fonzo
 De Fortuna
 De Fortunato
+Defraia
 De Fraia
 De Francesca
 De Francesch
+Defranceschi
 De Franceschi
+Defrancesco
 De Francesco
 De Franchi
 De Franchis
+Defrancisci
 De Francisci
+Defranciscis
 De Franciscis
 De Franco
+Defronzo
 De Fronzo
 De Fulvio
 De Furco
@@ -12812,12 +12929,22 @@ De Gabrieli
 De Gaetani
 De Gaetanis
 De Gaetano
+Degan
 De Gan
+Degani
+Deganis
+Degano
+Deganutti
+Deganutto
 De Gara
+Degasperi
 De Gasperi
+Degasperis
 De Gasperis
 De Gaudenzi
+Degaudio
 De Gaudio
+Degennaro
 De Gennaro
 De Germano
 De Gerolami
@@ -12825,18 +12952,22 @@ De Gerolamo
 De Geromini
 De Geronimi
 De Geronimo
+Deghenghi
 De Ghenghi
 De Giacobbe
 De Giacomi
 De Giampaolis
 De Giampaulis
+Degiampietro
 De Giampietro
 De Gianni
 De Giglio
+Degioanni
 De Gioia
 De Giorgi
 De Giorgio
 De Giorgis
+Degiovanni
 De Giovanni
 De Girolami
 De Girolamo
@@ -12844,52 +12975,94 @@ De Giromino
 De Gironimo
 De Giudice
 De Giudici
+Degiuli
 De Giuli
 De Giulio
 De Giuseppe
+Degiusti
 De Giusti
 De Giusto
+Degli Albrizzi
+Degli Antoni
+Degliesposti
+Degli Esposti
+Degli Innocenti
+Degli Osti
+Degliuomini
+Degli Uomini
+Degni
+Degno
+Degobbi
 De Gobbi
 De Gobbis
 De Gonzalo
 De Grada
+Degradi
 De Gradi
 De Grandi
 De Grandis
+Degrassi
 De Grassi
 De Grazia
 De Grecis
 De Gregoli
+Degregori
 De Gregori
+Degregoriis
 De Gregoriis
+Degregorio
 De Gregorio
 De Gregoris
 De Grigoli
+Degrossi
 De Grossi
 De Grosso
 De Hieronymis
+Deho
+Deho'
+Dei
 De Iaco
+Deiala
+Deiana
+Deianni
 De Ianni
+Deias
 De Iasi
 De Iasio
+Deicas
+Dei Cas
+Deidda
 De Ieso
 De Iesu
+Dei Giudici
+Deime
+Deioannon
+Deiorio
 De Iorio
 De Ioris
+Deiosso
 De Iudicibus
 De Iuli
 De Iuliis
 De Iulio
 De Iulis
+Deiure
 De Iure
+Dei Zotti
+Dejala
+Dejana
 De Jennaro
 De Jeso
 De Jesu
+Dejoannon
 De Joannon
+Dejosso
 De Judicibus
 De Juliis
 De Julis
+Dejure
 De Jure
+Delai
 De Lama
 De Lana
 De Landro
@@ -12898,491 +13071,13 @@ De Laurenti
 De Laurentiis
 De Laurentis
 De Laurenzis
+Delazzari
 De Lazzari
-De Ledda
-De Lelli
-De Lellis
-De Lello
-De Leo
-De Leonardi
-De Leonardis
-De Leonardo
-De Leone
-De Leonibus
-De Leuce
-De Lia
-De Libera
-De Liberali
-De Liberti
-De Liberto
-De Liguori
-De Liguoro
-De Lillo
-De Lio
-De Lisi
-De Liso
-De Litteris
-De Lizza
-De Logu
-De Longhi
-De Longis
-De Lorenzi
-De Lorenzis
-De Lorenzo
-De Lotto
-De Luca
-De Lucchi
-De Luci
-De Lucia
-De Lucio
-De Lucis
-De Luiggi
-De Luigi
-De Luis
-De Luise
-De Luisi
-De Luna
-De Lussu
-De Luzi
-De Maestri
-De Maggi
-De Maggio
-De Magistri
-De Magistris
-De Maglie
-De Maio
-De Maiolo
-De Maioribus
-De Majo
-De Marca
-De Marcantonio
-De Marchi
-De Marchis
-De Marco
-De Mari
-De Maria
-De Marinis
-De Marino
-De Mario
-De Marsico
-De Marta
-De Martiis
-De Martin
-De Martini
-De Martinis
-De Martino
-De Martis
-De Marzi
-De Marziis
-De Mas
-De Masi
-De Maso
-De Massari
-De Matte'
-De Mattei
-De Matteis
-De Matteo
-De Matthaeis
-De Mattia
-De Mattio
-De Mauro
-De Mecco
-De Medici
-De Medicis
-De Meis
-De Melas
-De Meneghi
-De Meo
-De Mercurio
-De Mestria
-De Mestrio
-De Metri
-De Metris
-De Micco
-De Michele
-De Micheli
-De Michelis
-De Miere
-De Mieri
-De Milato
-De Mita
-De Mitri
-De Molini
-De Molo
-De Monaco
-De Mondi
-De Monte
-De Monti
-De Montis
-De Mori
-De Morra
-De Mulini
-De Munari
-De Munda
-De Mundo
-De Muner
-De Munno
-De Mura
-De Muro
-De Murtas
-De Muru
-De Mussi
-De Musso
-De Nadai
-De Napoli
-De Nardi
-De Nardis
-De Nardo
-De Naro
-De Natale
-De Negri
-De Negris
-De Niccolo
-De Niccolo'
-De Nichilo
-De Nicola
-De Nicolai
-De Nicolo
-De Nicolo'
-De Nigri
-De Nigris
-De Nilo
-De Niro
-De Nitti
-De Nittis
-De Nitto
-De Nola
-De Nonno
-De Nora
-De Notariis
-De Notaris
-De Notaristefani
-De Notaristefano
-De Notarpietro
-De Notti
-De Novellis
-De Nuccio
-De Nunno
-De Nuntiis
-De Nunzio
-De Nuzzo
-De Oliva
-De Osti
-De Pace
-De Padova
-De Padua
-De Paduanis
-De Palma
-De Palmas
-De Palo
-De Panfilis
-De Paola
-De Paoli
-De Paolis
-De Paolo
-De Pardi
-De Pardo
-De Parigi
-De Pascal
-De Pascale
-De Pascali
-De Pascalis
-De Pasqua
-De Pasqual
-De Pasquale
-De Pasquali
-De Pasqualin
-De Pasqualis
-De Pau
-De Paulis
-De Pellegrin
-De Pellegrini
-De Pellegrino
-De Perna
-De Pero
-De Peron
-De Persiis
-De Peru
-De Petris
-De Piano
-De Piaz
-De Piazza
-De Piccoli
-De Pieri
-De Piero
-De Pietri
-De Pietro
-De Pilla
-De Pine'
-De Pinto
-De Pisa
-De Piscopo
-De Pisis
-De Plano
-De Pol
-De Polo
-De Pompei
-De Pompeis
-De Ponti
-De Porzio
-De Pra
-De Pra'
-De Prato
-De Presbiteris
-De Prete
-De Pretis
-De Prisco
-De Propris
-De Quarto
-De Raffaele
-De Raho
-De Rai
-De Raimondo
-De Re
-De Re'
-De Rege
-De Regibus
-De Regis
-De Rentiis
-De Renzi
-De Renzio
-De Renzis
-De Renzo
-De Rienzi
-De Rienzo
-De Risi
-De Riso
-De Riu
-De Riz
-De Roberti
-De Robertis
-De Rocchi
-De Rocco
-De Rodi
-De Roma
-De Roni
-De Ronzi
-De Ronzo
-De Ros
-De Rosa
-De Rose
-De Rossi
-De Rugeriis
-De Ruggeri
-De Ruggeriis
-De Ruggeris
-De Ruggero
-De Ruggieri
-De Ruggiero
-De Russo
-De Ruvo
-De Sabato
-De Salvo
-De Sanctis
-De Sanso
-De Sante
-De Santi
-De Santis
-De Santo
-De Scalzi
-De Scalzo
-De Sciglio
-De Sensi
-De Serra
-De Servi
-De Siato
-De Sica
-De Siena
-De Simine
-De Simon
-De Simone
-De Simoni
-De Sio
-De Sisti
-De Sisto
-De Sortes
-De Spirito
-De Stasi
-De Stasio
-De Stazio
-De Stefani
-De Stefanis
-De Stefano
-De Taranto
-De Tintis
-De Togni
-De Toma
-De Tomasi
-De Tomaso
-De Tommasi
-De Tommaso
-De Tona
-De Toni
-De Torrebruna
-De Troia
-De Troja
-De Tuglie
-De Tullio
-De Valle
-De Vecchi
-De Vecchia
-De Vecchio
-De Vecchis
-De Vendictis
-De Vendittis
-De Vergori
-De Vescovi
-De Vescovo
-De Vho
-De Vicari
-De Vico
-De Vidi
-De Vierno
-De Vietri
-De Vietro
-De Villa
-De Vincenti
-De Vincentiis
-De Vincentis
-De Vincenzi
-De Vincenzo
-De Virgilio
-De Vita
-De Vitis
-De Vito
-De Vittori
-De Vittoris
-De Vivi
-De Vivo
-De Vizzi
-De Vona
-De Vuono
-De Zan
-De Zardo
-De Zinis
-De Zordo
-De Zorzi
-De Zotti
-De Zottis
-De Zotto
-Deaddis
-Deaglio
-Deagostini
-Deagostino
-Deamici
-Deamicis
-Dean
-Deana
-Deangelis
-Deani
-Deanna
-Deano
-Deantoni
-Deantonio
-Dearca
-Debattista
-Debattisti
-Debidda
-Debona
-Deboni
-Debonis
-Debono
-Debortoli
-Decandia
-Decani
-Decanini
-Decano
-Decapitani
-Decaria
-Decarli
-Decensi
-Decima
-Decimi
-Decimo
-Decol
-Decorato
-Dedda
-Dede'
-Dedeo
-Dedoni
-Deduonni
-Defabritiis
-Defelice
-Defende
-Defendente
-Defendenti
-Defendi
-Defenu
-Defeo
-Deffenu
-Defilippi
-Defilippis
-Defilippo
-Defraia
-Defranceschi
-Defrancesco
-Defrancisci
-Defranciscis
-Defronzo
-Degan
-Degani
-Deganis
-Degano
-Deganutti
-Deganutto
-Degasperi
-Degasperis
-Degaudio
-Degennaro
-Deghenghi
-Degiampietro
-Degioanni
-Degiovanni
-Degiuli
-Degiusti
-Degli Albrizzi
-Degli Antoni
-Degli Esposti
-Degli Innocenti
-Degli Osti
-Degli Uomini
-Degliesposti
-Degliuomini
-Degni
-Degno
-Degobbi
-Degradi
-Degrassi
-Degregori
-Degregoriis
-Degregorio
-Degrossi
-Deho
-Deho'
-Dei
-Dei Cas
-Dei Giudici
-Dei Zotti
-Deiala
-Deiana
-Deianni
-Deias
-Deicas
-Deidda
-Deime
-Deioannon
-Deiorio
-Deiosso
-Deiure
-Dejala
-Dejana
-Dejoannon
-Dejosso
-Dejure
 Del Balio
 Del Balzi
 Del Balzo
 Del Beato
+Delbello
 Del Bello
 Del Ben
 Del Bene
@@ -13404,30 +13099,56 @@ Del Cherico
 Del Chiaro
 Del Chierico
 Del Conte
+Delcore
 Del Core
 Del Corno
 Del Corona
 Del Corpo
 Del Corso
+Delcuratolo
 Del Curatolo
 Del Debbio
 Del Deo
+Deldin
 Del Din
 Del Dotto
 Del Duca
+Delea
+Deledda
+De Ledda
+De Lelli
+De Lellis
+De Lello
+De Leo
+De Leonardi
+De Leonardis
+De Leonardo
+De Leone
+De Leonibus
+Delerba
+De Leuce
+Delfabbro
 Del Fabbro
+Delfabro
 Del Fabro
 Del Fante
 Del Favaro
 Del Favero
 Del Ferraro
+Delfi
 Del Fiandra
+Delfine
+Delfini
+Delfino
 Del Fiol
 Del Fiume
+Delfo
 Del Forno
 Del Francia
 Del Fraro
+Delfrate
 Del Frate
+Delfrati
 Del Frati
 Del Freo
 Del Gaudio
@@ -13438,44 +13159,243 @@ Del Giudice
 Del Grande
 Del Greco
 Del Grossi
+Delgrosso
 Del Grosso
 Del Guercio
+Delia
+De Lia
+D'Elia
+Delias
+D'Elias
+Delibera
+De Libera
+De Liberali
+Deliberti
+De Liberti
+Deliberto
+De Liberto
+Delicata
+Delicati
+Delicato
+Deligio
+D'Eligio
+Deligios
+De Liguori
+De Liguoro
+De Lillo
+De Lio
+Delisi
+De Lisi
+D'Elisi
+Deliso
+De Liso
+D'Eliso
+De Litteris
+De Lizza
+Dellabella
+Della Bella
+Dellabianca
+Della Bianca
+Della Bona
+Della Bruna
+Della Campa
+Dellacasa
+Della Casa
+Della Cella
+Della Chiaia
+Della Chiana
+Della Chiave
+Della Chiesa
+Della Ciaia
+Della Colletta
+Della Contrada
+Della Corte
+Della Costa
+Dellacqua
+Dell'Acqua
+Dellacroce
+Della Croce
+Delladdio
+Delladio
+Dellafera
+Della Fera
+Dellaferrera
+Della Ferrera
+Della Gaspera
+Della Giacoma
+Della Giovampaola
+Della Giovanna
+Della Giusta
+Della Giustina
+Dell'Agli
+Dell'Aglio
+Dell'Agnello
+Dell'Agnese
+Della Godenza
+Della Grazia
+Della Greca
+Della Grotta
+Dellai
+Dell'Aia
+Dell'Aira
+Della Libera
+Della Lode
+Della Luna
+Della Lunga
+Della Maddalena
+Della Maggiora
+Della Marchina
+Della Mea
+Della Monaca
+Dellamonica
+Della Monica
+Dellamorte
+Della Morte
+Dellana
+Della Negra
+Dell'Anese
+Della Neve
+Dell'Anna
+Dell'Annunziata
+Della Noce
+Della Pace
+Della Pasqua
+Della Pelle
+Della Pepa
+Dellaporta
+Della Porta
+Dell'Aquila
+Della Ragione
+Della Ratta
+Dell'Arciprete
+Dell'Arco
+Dell'Arena
+Dell'Aria
+Della Rocca
+Della Rosa
+Della Rossa
+Della Rotonda
+Della Rotta
+Della Rovere
+Della Sala
+Della Torre
+Dell'Atti
+Della Turca
+Dellavalle
+Della Valle
+Della Vecchia
+Dellavedova
+Della Vedova
+Della Ventura
+Della Volpe
+Della Zuana
+Dellea
+Delle Canne
+Delle Cave
+Delle Chiaie
+Delledonne
+Delle Donne
+Delle Foglie
+Delle Fratte
+Delle Grave
+Delle Grazie
+Delle Grottaglie
+Dell'Elce
+Delle Macchie
+Delle Monache
+Delle Noci
+Dellepiane
+Delle Piane
+Dellera
+Dell'Era
+Dellerba
+Dell'Erba
+Delli Carri
+Delli Compagni
+Delli Rocili
+Delli Santi
+Dellisola
+Dell'Isola
+Delli Zotti
+Delli Zuani
+Dell'Oglio
+Dello Iacono
+Dello Jacono
+Dellolio
+Dell'Olio
+Dell'Ominut
+Dell'Omodarme
+Dello Preite
+Dell'Oro
+Dell'Orto
+Dello Russo
+Dell'Osbel
+Dell'Oso
+Dell'Oste
+Dellutri
+Dell'Utri
 Del Magro
+Delmastro
 Del Mastro
+Delmati
 Del Mese
 Del Mestri
+Delmiglio
 Del Miglio
 Del Molino
 Del Monaco
 Del Mondo
+Delmonico
 Del Monico
+Delmonte
 Del Monte
 Del Moro
 Del Mulino
+Delnegro
 Del Negro
 Del Neri
 Del Nero
 Del Nigro
+Delnista
 Del Nista
 Del Noce
+Delogu
+De Logu
+De Longhi
+De Longis
+Delorenzi
+De Lorenzi
+Delorenzis
+De Lorenzis
+Delorenzo
+De Lorenzo
+Delos
+De Lotto
 Del Papa
 Del Pasqua
 Del Pecora
+Delpero
 Del Pero
+Delpiano
 Del Piano
 Del Piaz
 Del Piccolo
 Del Piero
+Delpino
 Del Pino
 Del Pinto
 Del Pio
 Del Pio Luogo
 Del Pizzol
+Delpoio
 Del Poio
+Delponte
 Del Ponte
+Delpopolo
 Del Popolo
 Del Pra
 Del Pra'
+Del Prà
 Del Prato
 Del Preite
 Del Prete
@@ -13488,7 +13408,9 @@ Del Quondam Giuseppe Detto Celli Luca
 Del Quondam Giuseppe Detto Celli Nello
 Del Re
 Del Regno
+Delrio
 Del Rio
+Delriu
 Del Riu
 Del Rosario
 Del Rosso
@@ -13503,419 +13425,626 @@ Del Tongo
 Del Torrione
 Del Tufo
 Del Turco
+Deluca
+De Luca
+Delucchi
+De Lucchi
+De Luci
+De Lucia
+De Lucio
+De Lucis
+Delugan
+De Luiggi
+Deluigi
+De Luigi
+Deluis
+De Luis
+Deluise
+De Luise
+Deluisi
+De Luisi
+De Luna
+Delussu
+De Lussu
+De Luzi
 Del Vacchio
+Delvai
 Del Vai
 Del Valle
+Delvecchio
 Del Vecchio
 Del Veneziano
 Del Verme
 Del Vescovo
 Del Vincio
 Del Viscovo
+Delvo
+Delvo'
 Del Vo
 Del Vo'
 Del Zotti
 Del Zotto
-Delai
-Delazzari
-Delbello
-Delcore
-Delcuratolo
-Deldin
-Delea
-Deledda
-Delerba
-Delfabbro
-Delfabro
-Delfi
-Delfine
-Delfini
-Delfino
-Delfo
-Delfrate
-Delfrati
-Delgrosso
-Delia
-Delias
-Delibera
-Deliberti
-Deliberto
-Delicata
-Delicati
-Delicato
-Deligio
-Deligios
-Delisi
-Deliso
-Dell'Acqua
-Dell'Agli
-Dell'Aglio
-Dell'Agnello
-Dell'Agnese
-Dell'Aia
-Dell'Aira
-Dell'Anese
-Dell'Anna
-Dell'Annunziata
-Dell'Aquila
-Dell'Arciprete
-Dell'Arco
-Dell'Arena
-Dell'Aria
-Dell'Atti
-Dell'Elce
-Dell'Era
-Dell'Erba
-Dell'Isola
-Dell'Oglio
-Dell'Olio
-Dell'Ominut
-Dell'Omodarme
-Dell'Oro
-Dell'Orto
-Dell'Osbel
-Dell'Oso
-Dell'Oste
-Dell'Utri
-Della Bella
-Della Bianca
-Della Bona
-Della Bruna
-Della Campa
-Della Casa
-Della Cella
-Della Chiaia
-Della Chiana
-Della Chiave
-Della Chiesa
-Della Ciaia
-Della Colletta
-Della Contrada
-Della Corte
-Della Costa
-Della Croce
-Della Fera
-Della Ferrera
-Della Gaspera
-Della Giacoma
-Della Giovampaola
-Della Giovanna
-Della Giusta
-Della Giustina
-Della Godenza
-Della Grazia
-Della Greca
-Della Grotta
-Della Libera
-Della Lode
-Della Luna
-Della Lunga
-Della Maddalena
-Della Maggiora
-Della Marchina
-Della Mea
-Della Monaca
-Della Monica
-Della Morte
-Della Negra
-Della Neve
-Della Noce
-Della Pace
-Della Pasqua
-Della Pelle
-Della Pepa
-Della Porta
-Della Ragione
-Della Ratta
-Della Rocca
-Della Rosa
-Della Rossa
-Della Rotonda
-Della Rotta
-Della Rovere
-Della Sala
-Della Torre
-Della Turca
-Della Valle
-Della Vecchia
-Della Vedova
-Della Ventura
-Della Volpe
-Della Zuana
-Dellabella
-Dellabianca
-Dellacasa
-Dellacqua
-Dellacroce
-Delladdio
-Delladio
-Dellafera
-Dellaferrera
-Dellai
-Dellamonica
-Dellamorte
-Dellana
-Dellaporta
-Dellavalle
-Dellavedova
-Delle Canne
-Delle Cave
-Delle Chiaie
-Delle Donne
-Delle Foglie
-Delle Fratte
-Delle Grave
-Delle Grazie
-Delle Grottaglie
-Delle Macchie
-Delle Monache
-Delle Noci
-Delle Piane
-Dellea
-Delledonne
-Dellepiane
-Dellera
-Dellerba
-Delli Carri
-Delli Compagni
-Delli Rocili
-Delli Santi
-Delli Zotti
-Delli Zuani
-Dellisola
-Dello Iacono
-Dello Jacono
-Dello Preite
-Dello Russo
-Dellolio
-Dellutri
-Delmastro
-Delmati
-Delmiglio
-Delmonico
-Delmonte
-Delnegro
-Delnista
-Delogu
-Delorenzi
-Delorenzis
-Delorenzo
-Delos
-Delpero
-Delpiano
-Delpino
-Delpoio
-Delponte
-Delpopolo
-Delrio
-Delriu
-Deluca
-Delucchi
-Delugan
-Deluigi
-Deluis
-Deluise
-Deluisi
-Delussu
-Delvai
-Delvecchio
-Delvo
-Delvo'
 Demaestri
+De Maestri
+De Maggi
+De Maggio
+De Magistri
 Demagistris
+De Magistris
+De Maglie
+De Maio
+De Maiolo
+De Maioribus
+De Majo
 Demalde
 Demalde'
+Demaldé
+Demaldè
+D'Emanuele
+De Marca
+De Marcantonio
 Demarchi
+De Marchi
 Demarchis
+De Marchis
 Demarco
+De Marco
 Demari
+De Mari
 Demaria
+De Maria
 Demarinis
+De Marinis
+De Marino
 Demario
+De Mario
+De Marsico
+De Marta
+De Martiis
+De Martin
 Demartini
+De Martini
 Demartinis
+De Martinis
 Demartino
+De Martino
 Demartis
+De Martis
+De Marzi
+De Marziis
+De Mas
 Demasi
+De Masi
+De Maso
+De Massari
 Dematte
 Dematte'
+De Matte'
+De Mattei
+De Matteis
+De Matteo
+De Matthaeis
+De Mattia
 Demattio
+De Mattio
 Demauro
+De Mauro
+De Mecco
+De Medici
+De Medicis
+De Meis
 Demelas
+De Melas
 Demeneghi
+De Meneghi
 Demenego
+De Meo
+De Mercurio
+De Mestria
+De Mestrio
 Demetri
+De Metri
 Demetria
 Demetrico
 Demetrio
+De Metris
 Demi
+De Micco
 Demichele
+De Michele
 Demicheli
+De Micheli
 Demichelis
+De Michelis
+D'Emidi
+D'Emidio
+De Miere
 Demieri
+De Mieri
+De Milato
 Demita
+De Mita
 Demitri
+De Mitri
 Demo
+De Molini
+De Molo
+De Monaco
+De Mondi
 Demonte
+De Monte
 Demonti
+De Monti
 Demontis
+De Montis
+De Mori
+De Morra
+De Mulini
+De Munari
+De Munda
 Demundo
+De Mundo
+De Muner
 Demunno
+De Munno
+De Mura
 Demuro
+De Muro
 Demurtas
+De Murtas
 Demuru
+De Muru
+De Mussi
+De Musso
 Denadai
+De Nadai
 Denapoli
+De Napoli
 Denardi
+De Nardi
+De Nardis
 Denardo
+De Nardo
 Denaro
+De Naro
+De Natale
 Denegri
+De Negri
+De Negris
+De Niccolo
+De Niccolo'
+De Niccolò
+De Nichilo
 Denicola
+De Nicola
 Denicolai
+De Nicolai
+De Nicolo
+De Nicolo'
+De Nicolò
 Denigri
+De Nigri
 Denigris
+De Nigris
+De Nilo
 Deniro
+De Niro
 Denitti
+De Nitti
 Denittis
+De Nittis
 Denitto
+De Nitto
 Denni
+De Nola
+De Nonno
+De Nora
+De Notariis
+De Notaris
+De Notaristefani
+De Notaristefano
+De Notarpietro
 Denotti
+De Notti
 Denovellis
+De Novellis
 Dente
 Denti
 Dentone
 Dentoni
+De Nuccio
+De Nunno
+De Nuntiis
 Denunzio
+De Nunzio
+De Nuzzo
 Deo
 Deodati
 Deodato
+Deo Dup
 Deola
+De Oliva
 Deon
+De Osti
 Deotti
 Deotto
+De Pace
+De Padova
+De Padua
+De Paduanis
 Depalma
+De Palma
 Depalmas
+De Palmas
+De Palo
+De Panfilis
 Depaol
+De Paola
 Depaoli
+De Paoli
+De Paolis
+De Paolo
+De Pardi
+De Pardo
+De Parigi
+De Pascal
+De Pascale
+De Pascali
+De Pascalis
+De Pasqua
+De Pasqual
+De Pasquale
+De Pasquali
+De Pasqualin
+De Pasqualis
 Depau
+De Pau
 Depaul
+De Paulis
 Depeccati
+De Pellegrin
+De Pellegrini
+De Pellegrino
+De Perna
 Depero
+De Pero
+De Peron
+De Persiis
 Deperu
+De Peru
 Depetris
+De Petris
+De Piano
+De Piaz
+De Piazza
+De Piccoli
+De Pieri
+De Piero
+De Pietri
+De Pietro
+De Pilla
 Depine
 Depine'
+De Pine'
+Depiné
+Depinè
+De Pinto
+De Pisa
+De Piscopo
+D'Episcopo
+De Pisis
 Deplano
+De Plano
 Deplanu
+De Pol
+De Polo
+De Pompei
+De Pompeis
+De Ponti
+De Porzio
+De Pra
+De Pra'
+De Prà
+De Prato
 Depresbiteris
+De Presbiteris
+De Prete
+De Pretis
+De Prisco
+De Propris
+De Quarto
+De Raffaele
+De Raho
+De Rai
+De Raimondo
 Deramo
+D'Eramo
+D'Ercole
+D'Ercoli
+Dere
 Dere'
+De Re
+De Re'
+Deré
+De Ré
+Derè
+De Rè
+De Rege
 Deregibus
+De Regibus
+De Regis
+De Rentiis
+De Renzi
+De Renzio
+De Renzis
+De Renzo
+De Rienzi
+De Rienzo
 Derio
 Derisi
+De Risi
 Deriso
+De Riso
 Deriu
+De Riu
+De Riz
+D'Erminio
 Deroberti
+De Roberti
 Derobertis
+De Robertis
+De Rocchi
+De Rocco
+De Rodi
 Deroma
+De Roma
+De Roni
+De Ronzi
 Deronzo
+De Ronzo
 Deros
+De Ros
 Derosa
+De Rosa
 Derosas
 Derose
+De Rose
+De Rossi
 Derrico
+D'Errico
 Derrigo
+D'Errigo
 Derriu
+De Rugeriis
+De Ruggeri
+De Ruggeriis
+De Ruggeris
+De Ruggero
+De Ruggieri
+De Ruggiero
+De Russo
+De Ruvo
+De Sabato
+De Salvo
 Desanctis
+De Sanctis
 Desanso
+De Sanso
+De Sante
+De Santi
 Desantis
+De Santis
+De Santo
 Descalzi
+De Scalzi
 Descalzo
+De Scalzo
+De Sciglio
+De Sensi
 Desenzani
 Deserra
+De Serra
 Deserti
 Deserto
 Deservi
+De Servi
 Desiante
 Desiata
 Desiato
+De Siato
+De Sica
 Desiderato
 Desideri
 Desiderio
 Desiena
+De Siena
 Desimine
+De Simine
+De Simon
+De Simone
+De Simoni
 Desini
 Desio
+De Sio
+De Sisti
+De Sisto
 Desogos
 Desogus
 Desole
 Desortes
+De Sortes
 Despirito
+De Spirito
+D'Esposito
 Dessena
 Dessi
 Dessi'
+Dessì
+De Stasi
+De Stasio
+De Stazio
 Deste
+D'Este
 Destefani
+De Stefani
 Destefanis
+De Stefanis
 Destefano
+De Stefano
 Dester
 Destino
 Destri
 Destro
+De Taranto
+De Tintis
 Detogni
+De Togni
+De Toma
+De Tomasi
+De Tomaso
+De Tommasi
+De Tommaso
+De Tona
 Detond
+De Toni
+De Torrebruna
+De Troia
+De Troja
 Detti
 Dettoni
 Dettore
+D'Ettore
 Dettori
 Dettorre
+D'Ettorre
+De Tuglie
+De Tullio
 Deu
+D'Eugenio
+D'Eusanio
+D'Eustacchio
+D'Eustachio
 Devalle
+De Valle
 Devecchi
+De Vecchi
 Devecchia
+De Vecchia
 Devecchio
+De Vecchio
 Devecchis
+De Vecchis
+De Vendictis
+De Vendittis
+De Vergori
+De Vescovi
+De Vescovo
+De Vho
 Devias
+De Vicari
+De Vico
+De Vidi
+De Vierno
+De Vietri
 Devietro
+De Vietro
 Devilla
+De Villa
 Devincenti
+De Vincenti
 Devincentiis
+De Vincentiis
 Devincentis
+De Vincentis
 Devincenzi
+De Vincenzi
 Devincenziis
 Devincenzis
 Devincenzo
+De Vincenzo
+De Virgilio
+De Vita
+De Vitis
 Devito
+De Vito
+De Vittori
+De Vittoris
 Devivi
+De Vivi
 Devivo
+De Vivo
 Devizzi
+De Vizzi
+De Vona
 Devota
 Devoti
 Devoto
+De Vuono
 Deyme
 Dezan
+De Zan
+De Zardo
 Dezi
+De Zinis
 Dezio
 Dezordo
+De Zordo
 Dezorzi
+De Zorzi
+De Zotti
+De Zottis
+De Zotto
 Dezza
+D'Herin
 Dho
 Dho'
+Diaco
+Diaconi
+Diacono
+Diaferia
+Diaferio
+Diale
+Dialetto
+Dialley
+Diamante
+Diamanti
+Diamantini
+Diamantino
+Diambri
+Dian
+Diana
 Di Anastasio
+Diane
 Di Angelantonio
+Diani
 Di Anna
+Dianni
+D'Ianni
+Diano
+Diano'
+Dianò
+Dianti
+Dianto
+Diantonio
 Di Antonio
+Dias
+Diaz
 Di Baggio
 Di Ballo
+Dibari
 Di Bari
 Di Bartoli
+Dibartolo
 Di Bartolo
+Dibartolomei
 Di Bartolomei
+Dibartolomeo
 Di Bartolomeo
 Di Battista
 Di Belardino
 Di Bella
 Di Bello
+Dibenedetto
 Di Benedetto
 Di Benigno
 Di Berardino
@@ -13931,6 +14060,7 @@ Di Biasi
 Di Biasio
 Di Bisogno
 Di Bitetto
+Dibitonto
 Di Bitonto
 Di Blasi
 Di Blasio
@@ -13945,10 +14075,12 @@ Di Brino
 Di Bruno
 Di Bucchianico
 Di Bucci
+Dibuono
 Di Buono
 Di Caccamo
 Di Campli
 Di Candeloro
+Dicandia
 Di Candia
 Di Canio
 Di Caprio
@@ -13961,18 +14093,23 @@ Di Casa
 Di Castri
 Di Cataldi
 Di Cataldo
+Dicati
 Di Cecco
 Di Cecilio
 Di Cecio
 Di Ceglia
+Diceglie
 Di Ceglie
 Di Celmo
+Dicembre
+Dicensi
 Di Censi
 Di Centa
 Di Cesare
 Di Cesari
 Di Chiano
 Di Chiara
+Dichio
 Di Chio
 Di Ciaccio
 Di Ciancio
@@ -13985,14 +14122,18 @@ Di Ciocco
 Di Ciommo
 Di Clemente
 Di Clementi
+Dicola
 Di Cola
 Di Concilio
 Di Consolo
+Dicorato
 Di Corato
 Di Corcia
 Di Cori
 Di Cosimo
+Dicosola
 Di Cosola
+Dicosolo
 Di Costa
 Di Costanzo
 Di Crecchio
@@ -14006,18 +14147,31 @@ Di Cristofaro
 Di Cristofori
 Di Cristoforo
 Di Cunto
+Dicuonzo
 Di Cuonzo
 Di Dario
+Didato
 Di Dato
+Didedda
 Di Dedda
 Di Deo
+Didia
 Di Dia
+Didio
 Di Dio
 Di Domenicantonio
 Di Domenico
 Di Donato
+Didone
+Didoni
+Didonna
 Di Donna
 Di Donno
+Dieci
+Diego
+Diegoli
+Diena
+Dieni
 Di Ettore
 Di Eusanio
 Di Fabi
@@ -14029,6 +14183,7 @@ Di Fazio
 Di Febo
 Di Fede
 Di Federico
+Difelice
 Di Felice
 Di Feo
 Di Fiandra
@@ -14050,6 +14205,7 @@ Di Francesca
 Di Francescantonio
 Di Francesco
 Di Franco
+Difronzo
 Di Fronzo
 Di Fulvio
 Di Fusco
@@ -14059,10 +14215,15 @@ Di Gangi
 Di Garbo
 Di Gaudio
 Di Gennai
+Digennaro
 Di Gennaro
 Di Geronimo
+Digesu
+Digesu'
 Di Gesu
 Di Gesu'
+Digesù
+Di Gesù
 Di Giacobbe
 Di Giacomo
 Di Giambattista
@@ -14071,28 +14232,44 @@ Di Giannantonio
 Di Gianni
 Di Giano
 Di Gianvito
+Digiesi
 Di Giesi
+Digiglio
 Di Giglio
 Di Gioacchino
 Di Gioia
 Di Giorgi
+Digiorgio
 Di Giorgio
 Di Giovannangelo
+Digiovanni
 Di Giovanni
 Di Girolami
 Di Girolamo
 Di Giromino
 Di Gironimo
+Digiuli
 Di Giuli
 Di Giulio
 Di Giulio Cesare
+Digiuni
 Di Giunta
 Di Giuseppe
+Digiusto
 Di Giusto
 Di Gloria
+Dignani
+D'Ignazi
+D'Ignazio
+Digni
+Digno
+D'Ignoti
+D'Ignoti Parenti
 Di Grandi
 Di Grazia
+Digregori
 Di Gregori
+Digregorio
 Di Gregorio
 Di Grezia
 Di Grigoli
@@ -14114,7 +14291,9 @@ Di Laudi
 Di Laudo
 Di Lauria
 Di Lauro
+Dilazzaro
 Di Lazzaro
+Dilecce
 Di Lecce
 Di Lelio
 Di Lella
@@ -14122,15 +14301,22 @@ Di Lellis
 Di Lello
 Di Lena
 Di Lenola
+Dileo
 Di Leo
 Di Leonardi
 Di Leonardis
 Di Leonardo
 Di Leone
 Di Lernia
+Diletti
+Diletto
+Dilettoso
+Dilettuso
 Di Leuce
 Di Leva
+Diliberti
 Di Liberti
+Diliberto
 Di Liberto
 Di Liddo
 Di Lillo
@@ -14140,41 +14326,54 @@ Di Lisciandro
 Di Lisi
 Di Liso
 Di Lollo
+Dilorenzo
 Di Lorenzo
 Di Loreto
 Di Luca
+Dilucantonio
 Di Lucantonio
 Di Lucia
 Di Ludovico
+Diluigi
 Di Luigi
 Di Luise
 Di Luisi
 Di Lullo
 Di Luzio
+Dima
 Di Maggio
 Di Maglie
 Di Maida
 Di Maio
 Di Majo
 Di Malta
+Dimarca
 Di Marca
 Di Marcantonio
 Di Marcello
 Di Marco
+Dimari
 Di Mari
+Dimaria
 Di Maria
 Di Marino
+Dimario
 Di Mario
 Di Maro
+Dimartino
 Di Martino
 Di Marzio
 Di Marzo
+Dimasi
 Di Masi
 Di Massa
 Di Mastrantonio
 Di Mattei
+Dimatteo
 Di Matteo
+Dimattia
 Di Mattia
+Dimauro
 Di Mauro
 Di Meglio
 Di Melfi
@@ -14182,317 +14381,93 @@ Di Meo
 Di Metri
 Di Micco
 Di Miceli
+Dimichele
 Di Michele
 Di Micheli
+Dimico
 Di Mico
+Dimieri
 Di Mieri
 Di Miero
+Dimino
 Di Mino
+Dimitri
 Di Mitri
+Dimitrio
 Di Mitrio
+Dimitro
 Di Mitro
 Di Modica
+Dimodugno
 Di Modugno
+Dimola
 Di Mola
 Di Molfetta
 Di Monaco
-Di Monda
-Di Monte
-Di Morra
-Di Muccio
-Di Mundo
-Di Munno
-Di Muro
-Di Muzio
-Di Napoli
-Di Nardo
-Di Naro
-Di Natale
-Di Nella
-Di Nicola
-Di Nicoli
-Di Nicuolo
-Di Nillo
-Di Nitto
-Di Nofa
-Di Noia
-Di Nolfi
-Di Nolfo
-Di Non
-Di Nonno
-Di Noto
-Di Nubila
-Di Nuccio
-Di Nunna
-Di Nunno
-Di Nunzio
-Di Nuovo
-Di Nuzzi
-Di Nuzzo
-Di Padova
-Di Padua
-Di Palma
-Di Palo
-Di Paola
-Di Paoli
-Di Paolo
-Di Pardo
-Di Parigi
-Di Pascale
-Di Pascali
-Di Pasqua
-Di Pasquale
-Di Pasquali
-Di Peppe
-Di Perna
-Di Piazza
-Di Piero
-Di Pierro
-Di Pietrangeli
-Di Pietrangelo
-Di Pietrantoni
-Di Pietrantonio
-Di Pietro
-Di Pilato
-Di Pilla
-Di Pinto
-Di Pippa
-Di Pippo
-Di Placido
-Di Pol
-Di Polo
-Di Pompei
-Di Popolo
-Di Porto
-Di Porzio
-Di Poto
-Di Prato
-Di Pretoro
-Di Prima
-Di Primo
-Di Prinzio
-Di Prisco
-Di Prossimo
-Di Qual
-Di Raffaele
-Di Raimondo
-Di Rauso
-Di Renzi
-Di Renzo
-Di Resta
-Di Rienzi
-Di Rienzo
-Di Risi
-Di Riso
-Di Rocchi
-Di Rocco
-Di Rodi
-Di Rollo
-Di Roma
-Di Ronco
-Di Rosa
-Di Ruocco
-Di Rupo
-Di Russo
-Di Sabatino
-Di Sabato
-Di Salvatore
-Di Salvia
-Di Salvio
-Di Salvo
-Di Sante
-Di Santi
-Di Santis
-Di Santo
-Di Sarno
-Di Sciullo
-Di Serio
-Di Sevo
-Di Siena
-Di Silvestro
-Di Silvio
-Di Simine
-Di Simone
-Di Sisto
-Di Somma
-Di Sorbo
-Di Spiridione
-Di Spirito
-Di Stasi
-Di Stasio
-Di Staso
-Di Stazio
-Di Stefani
-Di Stefano
-Di Tana
-Di Tano
-Di Taranto
-Di Teodoro
-Di Terlizzi
-Di Tomasi
-Di Tomaso
-Di Tommasi
-Di Tommaso
-Di Trani
-Di Trapani
-Di Tria
-Di Troia
-Di Troilo
-Di Trolio
-Di Tuccio
-Di Tullio
-Di Vaio
-Di Val
-Di Valentin
-Di Valentini
-Di Valentino
-Di Verde
-Di Via
-Di Vicino
-Di Vico
-Di Vido
-Di Vietri
-Di Vietro
-Di Vincenzi
-Di Vincenzo
-Di Virgilio
-Di Vita
-Di Vito
-Di Vittori
-Di Vittorio
-Di Vona
-Di Vuono
-Di Zanutto
-Diaco
-Diaconi
-Diacono
-Diaferia
-Diaferio
-Diale
-Dialetto
-Dialley
-Diamante
-Diamanti
-Diamantini
-Diamantino
-Diambri
-Dian
-Diana
-Diane
-Diani
-Dianni
-Diano
-Diano'
-Dianti
-Dianto
-Diantonio
-Dianò
-Dias
-Diaz
-Dibari
-Dibartolo
-Dibartolomei
-Dibartolomeo
-Dibenedetto
-Dibitonto
-Dibuono
-Dicandia
-Dicati
-Diceglie
-Dicembre
-Dicensi
-Dichio
-Dicola
-Dicorato
-Dicosola
-Dicosolo
-Dicuonzo
-Didato
-Didedda
-Didia
-Didio
-Didone
-Didoni
-Didonna
-Dieci
-Diego
-Diegoli
-Diena
-Dieni
-Difelice
-Difronzo
-Digennaro
-Digesu
-Digesu'
-Digiesi
-Digiglio
-Digiorgio
-Digiovanni
-Digiuli
-Digiuni
-Digiusto
-Dignani
-Digni
-Digno
-Digregori
-Digregorio
-Dilazzaro
-Dilecce
-Dileo
-Diletti
-Diletto
-Dilettoso
-Dilettuso
-Diliberti
-Diliberto
-Dilorenzo
-Dilucantonio
-Diluigi
-Dima
-Dimarca
-Dimari
-Dimaria
-Dimario
-Dimartino
-Dimasi
-Dimatteo
-Dimattia
-Dimauro
-Dimichele
-Dimico
-Dimieri
-Dimino
-Dimitri
-Dimitrio
-Dimitro
-Dimodugno
-Dimola
 Dimonda
+Di Monda
 Dimondo
 Dimonte
+Di Monte
+Di Morra
+D'Imperio
+D'Impero
+Di Muccio
 Dimundo
+Di Mundo
 Dimunno
+Di Munno
 Dimuro
+Di Muro
+Di Muzio
 Din
 Dinale
 Dinali
 Dinapoli
+Di Napoli
+Di Nardo
 Dinaro
+Di Naro
+Di Natale
+D'Incalci
 Dindi
 Dindo
+Di Nella
 Dinelli
 Dinello
 Dini
 Dinicola
+Di Nicola
+Di Nicoli
+Di Nicuolo
+Di Nillo
 Dinitti
 Dinitto
+Di Nitto
+D'Innocenzo
 Dino
+Di Nofa
 Dinoi
 Dinoia
+Di Noia
+Di Nolfi
+Di Nolfo
 Dinon
+Di Non
+Di Nonno
+Di Noto
+Di Nubila
 Dinucci
 Dinuccio
+Di Nuccio
+Di Nunna
+Di Nunno
 Dinunzio
+Di Nunzio
+Di Nuovo
+Di Nuzzi
+Di Nuzzo
+D'Inverno
 Diociaiuti
 Diodati
 Diodato
@@ -14513,65 +14488,211 @@ Dionisi
 Dionisio
 Dioniso
 Dionne
+D'Iorio
 Diotaiuta
 Diotaiuti
 Diotallevi
 Diotisalvi
 Diotti
 Diotto
+Di Padova
+Di Padua
+Di Palma
+Di Palo
 Dipaola
+Di Paola
+Di Paoli
 Dipaolo
+Di Paolo
 Dipardo
+Di Pardo
+Di Parigi
+Di Pascale
+Di Pascali
+Di Pasqua
 Dipasquale
+Di Pasquale
+Di Pasquali
+Di Peppe
+Di Perna
+Di Piazza
+Di Piero
 Dipierro
+Di Pierro
+Di Pietrangeli
+Di Pietrangelo
+Di Pietrantoni
+Di Pietrantonio
+Di Pietro
 Dipilato
+Di Pilato
+Di Pilla
+Di Pinto
+Di Pippa
+Di Pippo
+Di Placido
+Di Pol
+Di Polo
+Di Pompei
+Di Popolo
+Di Porto
+Di Porzio
+Di Poto
+D'Ippolito
+Di Prato
+Di Pretoro
 Diprima
+Di Prima
 Diprimo
+Di Primo
+Di Prinzio
+Di Prisco
+Di Prossimo
+Di Qual
+Di Raffaele
+Di Raimondo
 Dirani
+Di Rauso
+Di Renzi
 Direnzo
+Di Renzo
+Di Resta
 Direttore
 Direttori
+Di Rienzi
+Di Rienzo
+Di Risi
 Diriso
+Di Riso
+Di Rocchi
+Di Rocco
+Di Rodi
+Di Rollo
 Diroma
+Di Roma
+Di Ronco
+Di Rosa
+Di Ruocco
+Di Rupo
+Di Russo
+D'Isa
+Di Sabatino
 Disabato
+Di Sabato
+Di Salvatore
+Di Salvia
+Di Salvio
+Di Salvo
+Di Sante
 Disanti
+Di Santi
+Di Santis
+Di Santo
+Di Sarno
 Disaro
 Disaro'
 Discacciati
 Discepoli
 Discepolo
+Di Sciullo
 Disconzi
 Disdero
+Di Serio
+Di Sevo
+D'Isidori
 Disidoro
+D'Isidoro
+Di Siena
+Di Silvestro
+Di Silvio
+Di Simine
+Di Simone
+Di Sisto
+D'Isola
+Di Somma
+Di Sorbo
 Dispensieri
 Disperati
 Dispinseri
 Dispinsieri
 Dispinzeri
 Dispinzieri
+Di Spiridione
 Dispirito
+Di Spirito
 Disraele
 Disraeli
 Distante
+Di Stasi
+Di Stasio
 Distaso
+Di Staso
+Di Stazio
 Distefani
+Di Stefani
 Distefano
+Di Stefano
 Distinzieri
 Ditalia
+D'Italia
+Di Tana
 Ditano
+Di Tano
+Di Taranto
 Diteodoro
+Di Teodoro
+Di Terlizzi
+Di Tomasi
+Di Tomaso
+Di Tommasi
 Ditommaso
+Di Tommaso
 Ditrani
+Di Trani
+Di Trapani
+D'Itri
+Di Tria
+Di Troia
+Di Troilo
+Di Trolio
 Ditta
+Di Tuccio
+Di Tullio
+Di Vaio
+Di Val
+Di Valentin
+Di Valentini
+Di Valentino
 Divano
+D'Ivano
+Di Verde
 Diverio
+Di Via
+Di Vicino
+Di Vico
+Di Vido
 Divietri
+Di Vietri
 Divietro
+Di Vietro
+Di Vincenzi
+Di Vincenzo
+Di Virgilio
+Di Vita
 Divito
+Di Vito
+Di Vittori
+Di Vittorio
+Di Vona
+Di Vuono
 Dixit
 Dixit Dominus
+Di Zanutto
 Dizzia
+D'Izzia
+Do
 Do'
+Dò
 Docimo
 Doddo
 Dodera
@@ -14651,10 +14772,9 @@ Domiziano
 Domizio
 Dommarco
 Don
-Don Giacomo
-Don Giovanni
 Dona
 Dona'
+Donà
 Donadei
 Donadel
 Donadelli
@@ -14695,8 +14815,11 @@ Dones
 Donetti
 Donetto
 Donghi
+D'Onghia
 Dongiacomo
+Don Giacomo
 Dongiovanni
+Don Giovanni
 Dongo
 Doni
 Donia
@@ -14705,8 +14828,10 @@ Donigaglia
 Donini
 Donino
 Donis
+D'Onise
 Doniselli
 Donisi
+D'Onisi
 Doniso
 Donizetti
 Donizoni
@@ -14726,10 +14851,12 @@ Donnino
 Donno
 Donnoli
 Dono
+D'Onofrio
 Donzella
 Donzelli
 Donzello
 Dora
+D'Orazio
 Dordoni
 Dore
 Dorella
@@ -14741,6 +14868,7 @@ Doretto
 Dorgnach
 Dori
 Doria
+D'Oria
 Dorigato
 Dorighi
 Dorigo
@@ -14753,16 +14881,27 @@ Dorini
 Dorino
 Dorio
 Dorizzi
+D'Orlandi
+D'Orlando
 Dormetta
 Dornini
 Doro
+D'Oro
 Doronzo
+D'Oronzo
+D'Orrio
+D'Orsi
+D'Orso
+D'Orta
+D'Ortona
 Dosi
 Dosio
+D'Ospina
 Dossena
 Dossi
 Dosso
 Dossola
+D'Ostuni
 Dot
 Dotta
 Dotti
@@ -14826,7 +14965,9 @@ Durini
 Durlo
 Duro
 Dursi
+D'Ursi
 Durso
+D'Urso
 Dusa
 Duse
 Dusi
@@ -14836,6 +14977,7 @@ Dusio
 Duso
 Dutti
 Dutto
+D'Uva
 Eberto
 Eboli
 Ebrei
@@ -14965,6 +15107,7 @@ Erbani
 Erbetta
 Erbi
 Erbi'
+Erbì
 Erbini
 Erbogasto
 Erby
@@ -15071,6 +15214,7 @@ Ezzis
 Fa
 Faa
 Faa'
+Faà
 Fabbi
 Fabbian
 Fabbianelli
@@ -15086,6 +15230,7 @@ Fabbrini
 Fabbris
 Fabbro
 Faben
+FabÈn
 Fabi
 Fabia
 Fabian
@@ -15108,7 +15253,6 @@ Fabris
 Fabrizi
 Fabrizio
 Fabrizzi
-FabÈn
 Faccardi
 Faccello
 Faccendini
@@ -15171,6 +15315,7 @@ Faeti
 Faeto
 Faga
 Faga'
+Fagà
 Fagan
 Faganelli
 Faganello
@@ -15261,7 +15406,9 @@ Falcione
 Falcioni
 Falck
 Falco
+Falcomata
 Falcomata'
+Falcomatà
 Falcomer
 Falcon
 Falconcini
@@ -15319,7 +15466,9 @@ Falzetto
 Falzon
 Falzone
 Falzoni
+Fama
 Fama'
+Famà
 Famegli
 Fameli
 Famigli
@@ -15434,7 +15583,10 @@ Faravolo
 Farci
 Fardin
 Fardini
+Fare
 Fare'
+Faré
+Farè
 Farella
 Fares
 Farese
@@ -15870,14 +16022,17 @@ Ferrata
 Ferrati
 Ferrato
 Ferrau
+FerraÚ
 Ferrazza
 Ferrazzano
 Ferrazzi
 Ferrazzo
 Ferrazzoli
 Ferrazzolo
-FerraÚ
+Ferre
 Ferre'
+Ferré
+Ferrè
 Ferrea
 Ferreguti
 Ferregutti
@@ -15893,7 +16048,6 @@ Ferreto
 Ferretti
 Ferretto
 Ferri
-Ferri Marini
 Ferriello
 Ferrieri
 Ferriero
@@ -15907,6 +16061,7 @@ Ferrigo
 Ferrigutti
 Ferrilli
 Ferrillo
+Ferri Marini
 Ferrini
 Ferrino
 Ferrio
@@ -16030,6 +16185,7 @@ File'
 Filemone
 Filemoni
 Filia
+FilÌa
 Filiali
 Filiberti
 Filiberto
@@ -16075,6 +16231,7 @@ Filomarino
 Filomena
 Filomene
 Filomeni
+Filomeni  Dup
 Filoni
 Filosa
 Filosi
@@ -16084,7 +16241,6 @@ Filpi
 Filpo
 Filz
 Filzi
-FilÌa
 Fimelli
 Fimiani
 Fin
@@ -16300,10 +16456,13 @@ Flumiani
 Flumini
 Fluri
 Fo
+Fò
 Foa
 Foa'
 Fobini
+Foca
 Foca'
+Focà
 Focaccia
 Focardi
 Foccardi
@@ -16479,10 +16638,15 @@ Forlan
 Forlani
 Forlanini
 Forlano
+Forle
 Forle'
+Forlé
+Forlè
 Forlenza
 Forleo
+Forli
 Forli'
+Forlì
 Forliani
 Forliano
 Forlini
@@ -16630,8 +16794,9 @@ Frada
 Fradelizio
 Fragala
 Fragala'
-Fragale
 FragalÁ
+Fragalà
+Fragale
 Fragapane
 Fragiacomo
 Fragnelli
@@ -17147,7 +17312,6 @@ Fusti
 Fustini
 Fusto
 Fuzio
-Fò
 Gabaldi
 Gabaldo
 Gaballo
@@ -17282,6 +17446,7 @@ Gaito
 Gaj
 Gala
 Gala'
+Galà
 Galan
 Galanda
 Galano
@@ -17299,6 +17464,8 @@ Galastri
 Galastro
 Galata
 Galata'
+GalatÁ
+Galatà
 Galatei
 Galateo
 Galateri
@@ -17308,7 +17475,6 @@ Galatioto
 Galatone
 Galatoni
 Galatti
-GalatÁ
 Galaverna
 Galazzi
 Galazzo
@@ -17367,6 +17533,8 @@ Galiazzi
 Galiazzo
 Galie
 Galie'
+Galié
+Galiè
 Galiena
 Galieni
 Galieno
@@ -17726,6 +17894,8 @@ Garraffo
 Garrapa
 Garre
 Garre'
+Garré
+Garrè
 Garreffa
 Garreffi
 Garrini
@@ -18073,6 +18243,7 @@ Gerlo
 Gerlone
 Gerloni
 German
+Germanà
 Germanaz
 Germandi
 Germani
@@ -18080,9 +18251,8 @@ Germania
 Germanini
 Germanino
 Germano
-Germanotta
-Germanà
 Germanò
+Germanotta
 Germe
 Germelli
 Germetti
@@ -18148,7 +18318,9 @@ Gessate
 Gessati
 Gessi
 Gesso
+Gesu
 Gesu'
+Gesù
 Gesualdi
 Gesualdo
 Gesuele
@@ -18331,6 +18503,7 @@ Giacinto
 Giacintucci
 Giaco
 Giaco'
+Giacò
 Giacobazzi
 Giacobbe
 Giacobbi
@@ -18400,6 +18573,7 @@ Giambenedetti
 Giambi
 Giambo
 Giambo'
+Giambò
 Giamboi
 Giambone
 Giamboni
@@ -18482,6 +18656,7 @@ Giangrandi
 Giangreco
 Giani
 Giani'
+Gianì
 Gianicolo
 Gianleonardo
 Gianlonardo
@@ -18703,7 +18878,10 @@ Giocondo
 Gioe'
 Gioele
 Gioeli
+Gioffre
 Gioffre'
+Gioffré
+Gioffrè
 Gioffreda
 Gioffredi
 Gioffredo
@@ -18877,11 +19055,14 @@ Giudici
 Giudicianni
 Giudissi
 Giuffra
+Giuffre
 Giuffre'
+Giuffré
+Giuffrè
 Giuffreda
 Giuffredi
-Giuffrida
 Giuffrì
+Giuffrida
 Giugale
 Giuggia
 Giuggio
@@ -19013,6 +19194,7 @@ Gnocchi
 Gnocco
 Gnoffo
 Gnone
+Gnoni
 Gnudi
 Gnutti
 Go
@@ -19457,7 +19639,10 @@ Grottole
 Grottoli
 Gruarin
 Gruber
+Grufe
 Grufe'
+Grufé
+Grufè
 Grugni
 Grumelli
 Grungo
@@ -20277,6 +20462,7 @@ Iommi
 Ion
 Iona
 Iona'
+Ionà
 Ione
 Ioni
 Ioppi
@@ -20394,6 +20580,7 @@ Iuli
 Iulianella
 Iuliani
 Iuliano
+Iuli Dup
 Iulini
 Iulio
 Iuliucci
@@ -20428,158 +20615,68 @@ Izzi
 Izzia
 Izzillo
 Izzo
-L'Abate
-L'Acqua
-L'Afflitto
-L'Ammendola
-L'Episcopo
+Labadessa
 La Badessa
+Labadini
+Labanca
 La Banca
 La Banchi
 La Barbera
 La Barbiera
-La Barile
-La Bella
-La Bianca
-La Bionda
-La Biunda
-La Bua
-La Cagnina
-La Caita
-La Candia
-La Canfora
-La Capria
-La Cara
-La Catena
-La Cava
-La Cavalla
-La Chiana
-La Cognata
-La Corte
-La Croce
-La Duca
-La Falce
-La Fata
-La Ferla
-La Ferlita
-La Ferrera
-La Fiandra
-La Forgia
-La Fortezza
-La Gatta
-La Gemma
-La Gorga
-La Greca
-La Grotta
-La Grotteria
-La Grutta
-La Guardia
-La Guercia
-La Guidara
-La Leggia
-La Legname
-La Licata
-La Loggia
-La Lomia
-La Lumia
-La Macchia
-La Magna
-La Maida
-La Malfa
-La Manna
-La Mantia
-La Marca
-La Marmora
-La Mastra
-La Mattina
-La Mela
-La Mendola
-La Micela
-La Monaca
-La Monica
-La Montagna
-La Muraglia
-La Nocara
-La Padula
-La Palombara
-La Parola
-La Pastina
-La Penna
-La Penta
-La Pera
-La Piana
-La Picca
-La Piccirella
-La Pietra
-La Pignola
-La Pira
-La Placa
-La Porta
-La Quintana
-La Ragione
-La Raia
-La Regina
-La Rocca
-La Rosa
-La Rossa
-La Russa
-La Sala
-La Scala
-La Selva
-La Spada
-La Spia
-La Spina
-La Stella
-La Targia
-La Terza
-La Tona
-La Torraca
-La Torrata
-La Torre
-La Valle
-La Vanga
-La Varra
-La Vecchia
-La Vella
-La Viola
-La Volpe
-La Volpicella
-Labadessa
-Labadini
-Labanca
 Labardi
 Labardo
 Labarile
+La Barile
 Labate
+L'Abate
 Labbia
 Labbiento
 Labbruzzo
 Labella
+La Bella
 Labemano
 Labianca
+La Bianca
 Labieni
+La Bionda
+La Biunda
 Labo'
 Laboni
 Labonia
 Labori
 Labriola
 Labruzzo
+La Bua
 Lacagnina
+La Cagnina
 Lacaita
+La Caita
 Lacalamita
 Lacanà
+La Candia
+La Canfora
+La Capria
+La Cara
 Lacarbonara
 Lacatena
+La Catena
 Lacava
+La Cava
 Lacavalla
+La Cavalla
 Lacchini
 Lacerenza
+La Chiana
+La Cognata
 Lacona
 Laconi
 Lacopo
 Lacorte
+La Corte
 Lacqua
+L'Acqua
 Lacroce
+La Croce
 Ladalardo
 Laddomada
 Ladini
@@ -20587,19 +20684,32 @@ Ladino
 Ladisa
 Ladisi
 Ladu
+La Duca
 Laera
 Laezza
+La Falce
+La Fata
+La Ferla
+La Ferlita
 Laferrera
+La Ferrera
+L'Afflitto
 Laffranchi
 Laffranchini
 Lafiandra
+La Fiandra
+La Forgia
 Lafortezza
+La Fortezza
 Lafranchi
 Lafranconi
 Lagana
 Lagana'
+Laganà
 Laganara
+La Gatta
 Lagemma
+La Gemma
 Laggetta
 Laghezza
 Laghi
@@ -20607,17 +20717,25 @@ Lagioia
 Lago
 Lagomarsini
 Lagomarsino
+La Gorga
 Lagori
 Lagorio
 Lagostena
 Lagostina
 Lagostini
 Lagreca
+La Greca
 Lagrini
+La Grotta
 Lagrotteria
+La Grotteria
+La Grutta
 Laguardia
+La Guardia
 Laguercia
+La Guercia
 Laguidara
+La Guidara
 Lagustena
 Laguzzi
 Lai
@@ -20630,25 +20748,41 @@ Laiti
 Lajno
 Lajolo
 Lala
+La Leggia
+La Legname
+La Licata
 Lalinga
 Lalla
 Lallai
 Lalli
 Lallo
+La Loggia
+La Lomia
+La Lumia
 Lama
 Lamacchia
+La Macchia
 Lamagna
+La Magna
+La Maida
 Lamalfa
+La Malfa
 Lamanna
+La Manna
 Lamano
 Lamantea
 Lamantia
+La Mantia
 Lamarca
+La Marca
 Lamarina
 Lamarmora
+La Marmora
 Lamastra
+La Mastra
 Lamatrice
 Lamattina
+La Mattina
 Lamba
 Lambardi
 Lambardo
@@ -20667,12 +20801,15 @@ Lambri
 Lambro
 Lambruschi
 Lambruschini
+La Mela
+La Mendola
 Lamera
 Lameri
 Lametta
 Lami
 Lamia
 Lamicela
+La Micela
 Lamieri
 Lamillo
 Lamina
@@ -20680,9 +20817,13 @@ Lamini
 Lamino
 Lamma
 Lammendola
+L'Ammendola
 Lamo
 Lamon
+La Monaca
 Lamonato
+La Monica
+La Montagna
 Lamorgese
 Lamorte
 Lamotta
@@ -20695,6 +20836,7 @@ Lampredi
 Lampugnani
 Lampugnano
 Lamuraglia
+La Muraglia
 Lana
 Lanari
 Lanaro
@@ -20762,6 +20904,7 @@ Lanino
 Lanni
 Lannini
 Lannino
+La Nocara
 Lanosa
 Lanotte
 Lantella
@@ -20804,25 +20947,44 @@ Lanzuise
 Lanzuisi
 Lao
 Lao'
+Laò
 Lapa
 Lapadula
+La Padula
 Lapai
+La Palombara
 Laparelli
 Laparola
+La Parola
+La Pastina
 Lapenna
+La Penna
 Lapenta
+La Penta
+La Pera
 Lapetti
 Lapi
+La Piana
 Lapicca
+La Picca
+La Piccirella
+La Pietra
+La Pignola
 Lapini
+La Pira
+La Placa
 Lapo
 Lapolla
 Laporta
+La Porta
 Lapponi
 Lapucci
 Laquintana
+La Quintana
+La Ragione
 Larai
 Laraia
+La Raia
 Laras
 Laratta
 Larceri
@@ -20832,6 +20994,7 @@ Lardi'
 Lardon
 Lardone
 Lardoni
+La Regina
 Lari
 Laria
 Larietti
@@ -20840,17 +21003,23 @@ Larioni
 Larizza
 Larobina
 Larocca
+La Rocca
 Larosa
+La Rosa
 Larossa
+La Rossa
 Larotonda
 Larussa
+La Russa
 Larva
 Lasagna
 Lasagni
 Lasagno
+La Sala
 Lasaracina
 Lasca
 Lascala
+La Scala
 Lascari
 Lascaro
 Lasche
@@ -20858,31 +21027,42 @@ Laschi
 Lascialfare
 Lascialfari
 Lasco
+La Selva
 Lasio
 Lasiu
 Laspada
+La Spada
 Laspia
+La Spia
 Laspina
+La Spina
 Lassandro
 Lastella
+La Stella
 Lastrai
 Lastrego
 Lastri
 Lastrico
 Lastrucci
 Latargia
+La Targia
 Latella
 Latelli
 Laterza
+La Terza
 Latin
 Latina
 Latini
 Latino
 Lato
 Latona
+La Tona
 Latorraca
+La Torraca
 Latorrata
+La Torrata
 Latorre
+La Torre
 Latrofa
 Lattanzi
 Lattanzio
@@ -20959,12 +21139,17 @@ Lavagnini
 Lavagnino
 Lavaia
 Lavalle
+La Valle
 Lavanga
+La Vanga
 Lavarini
 Lavarra
+La Varra
 Lavazza
 Lavecchia
+La Vecchia
 Lavella
+La Vella
 Lavelli
 Lavello
 Lavesi
@@ -20981,10 +21166,13 @@ Lavieri
 Laviero
 Lavio
 Laviola
+La Viola
 Lavizzari
 Lavizzaro
 Lavolpe
+La Volpe
 Lavolpicella
+La Volpicella
 Lavorato
 Lavore
 Lavori
@@ -21017,9 +21205,6 @@ Lazzerini
 Lazzero
 Lazzeroni
 Lazzo
-Le Grottaglie
-Le Pera
-Le Rose
 Leale
 Leali
 Lealini
@@ -21063,7 +21248,10 @@ Lefevre
 Lefons
 Legati
 Legato
+Lege
 Lege'
+Legé
+Legè
 Legena
 Leggeri
 Leggero
@@ -21078,6 +21266,7 @@ Legnante
 Legorati
 Legoratti
 Legrottaglie
+Le Grottaglie
 Leguleo
 Lei
 Leidi
@@ -21145,6 +21334,8 @@ Leopardo
 Leopizzi
 Leotta
 Lepera
+Le Pera
+L'Episcopo
 Lepora
 Leporale
 Leporani
@@ -21166,6 +21357,7 @@ Lerda
 Lerma
 Lerna
 Lerose
+Le Rose
 Lerza
 Leschiutta
 Lesica
@@ -21230,19 +21422,6 @@ Ley
 Lezza
 Lezzi
 Lezzo
-Li Cari
-Li Castri
-Li Causi
-Li Destri
-Li Donni
-Li Donnici
-Li Gambi
-Li Gresti
-Li Mandri
-Li Muli
-Li Pera
-Li Puma
-Li Rosi
 Lia
 Liaci
 Liantonio
@@ -21255,7 +21434,10 @@ Libanoro
 Libardi
 Libardo
 Libardoni
+Libe
 Libe'
+Libé
+Libè
 Libener
 Libera
 Liberalato
@@ -21272,11 +21454,11 @@ Liberatori
 Liberi
 Liberio
 Libero
+Libertà
 Liberti
 Libertini
 Liberto
 Libertucci
-Libertà
 Libonati
 Libone
 Liboni
@@ -21293,10 +21475,13 @@ Liburno
 Licandri
 Licandro
 Licari
+Li Cari
 Licastri
+Li Castri
 Licastro
 Licata
 Licausi
+Li Causi
 Liccadito
 Liccardi
 Liccardo
@@ -21321,7 +21506,10 @@ Licomati
 Licordari
 Licursi
 Lidestri
+Li Destri
+Li Donni
 Lidonnici
+Li Donnici
 Lidori
 Liechti
 Lieggio
@@ -21335,6 +21523,7 @@ Ligabo
 Ligabo'
 Ligabue
 Ligambi
+Li Gambi
 Ligas
 Ligato
 Liggeri
@@ -21344,6 +21533,7 @@ Ligia
 Ligios
 Ligorio
 Ligresti
+Li Gresti
 Liguori
 Liguoro
 Liistri
@@ -21354,6 +21544,7 @@ Lillo
 Lillu
 Lima
 Limandri
+Li Mandri
 Limardi
 Limardo
 Limatola
@@ -21373,6 +21564,7 @@ Limoni
 Limonta
 Limosani
 Limosano
+Li Muli
 Linaldeddu
 Linale
 Linardi
@@ -21414,6 +21606,7 @@ Liparota
 Liparoti
 Liparoto
 Lipera
+Li Pera
 Lippa
 Lipparini
 Lippelli
@@ -21424,8 +21617,10 @@ Lippo
 Lippoli
 Lippolis
 Liprandi
+Li Puma
 Liquori
 Liri
+Li Rosi
 Lisa
 Lisandrelli
 Lisandri
@@ -21502,128 +21697,40 @@ Lizio
 Lizza
 Lizzi
 Lizzio
-Lo Bascio
-Lo Bello
-Lo Bianco
-Lo Biondo
-Lo Biundo
-Lo Bono
-Lo Bosco
-Lo Brutto
-Lo Bue
-Lo Buono
-Lo Campo
-Lo Cane
-Lo Cascio
-Lo Castro
-Lo Celso
-Lo Chiano
-Lo Cicero
-Lo Coco
-Lo Console
-Lo Consolo
-Lo Conte
-Lo Cricchio
-Lo Cuoco
-Lo Curatolo
-Lo Curcio
-Lo Curto
-Lo Curzio
-Lo Dato
-Lo Duca
-Lo Faro
-Lo Faso
-Lo Forte
-Lo Galdo
-Lo Gatto
-Lo Gerfo
-Lo Giacco
-Lo Gioco
-Lo Giodice
-Lo Giudice
-Lo Grande
-Lo Greco
-Lo Grieco
-Lo Groi
-Lo Guasto
-Lo Guercio
-Lo Guzzo
-Lo Iacona
-Lo Iacono
-Lo Iero
-Lo Jacono
-Lo Joco
-Lo Manto
-Lo Mascolo
-Lo Masto
-Lo Mastro
-Lo Mazzo
-Lo Monaco
-Lo Monte
-Lo Muzio
-Lo Nardo
-Lo Nigro
-Lo Parco
-Lo Parrino
-Lo Perfido
-Lo Pergolo
-Lo Petrone
-Lo Piccolo
-Lo Pinto
-Lo Polito
-Lo Porto
-Lo Preato
-Lo Preiato
-Lo Prejato
-Lo Prencipe
-Lo Preste
-Lo Presti
-Lo Prete
-Lo Prieno
-Lo Proto
-Lo Re
-Lo Russo
-Lo Sapio
-Lo Sardo
-Lo Savio
-Lo Scalzo
-Lo Schiavo
-Lo Schiavone
-Lo Sciale
-Lo Strangio
-Lo Tauro
-Lo Tennero
-Lo Tufo
-Lo Turco
-Lo Valvo
-Lo Vecchio
-Lo Ventre
-Lo Vercio
-Lo Verde
-Lo Verro
-Lo Verso
-Lo Voi
-Lo Vuolo
 Loaldi
 Loases
 Loasses
 Lobascio
+Lo Bascio
 Lobbia
+Lo Bello
 Loberti
 Loberto
 Lobetti
 Lobianco
+Lo Bianco
 Lobina
+Lo Biondo
+Lo Biundo
 Lobono
+Lo Bono
+Lo Bosco
+Lo Brutto
 Lobue
+Lo Bue
 Lobuono
+Lo Buono
+Lo Campo
 Locane
+Lo Cane
 Locardi
 Locardo
 Locarnini
 Locasale
 Locascio
+Lo Cascio
 Locasciulli
+Lo Castro
 Locatelli
 Locatello
 Locati
@@ -21632,20 +21739,34 @@ Locchi
 Locci
 Locco
 Locelso
+Lo Celso
 Loche
 Lochi
+Lo Chiano
 Lochis
+Lo Cicero
+Lo Coco
 Loconsole
+Lo Console
 Loconsolo
+Lo Consolo
 Loconte
+Lo Conte
 Locorotondo
 Locri
+Lo Cricchio
+Lo Cuoco
 Locuratolo
+Lo Curatolo
 Locurcio
+Lo Curcio
 Locurto
+Lo Curto
+Lo Curzio
 Loda
 Lodati
 Lodato
+Lo Dato
 Lodde
 Loddi
 Loddo
@@ -21664,33 +21785,56 @@ Lodovichi
 Lodovici
 Lodovico
 Lodovisi
+Lo Duca
 Loero
 Lofaro
+Lo Faro
 Lofaso
+Lo Faso
 Loffreda
 Loffredi
 Loffredo
 Lofiego
+Lo Forte
 Logaldo
+Lo Galdo
+Lo Gatto
+Lo Gerfo
 Loggia
+Lo Giacco
+Lo Gioco
 Logiodice
+Lo Giodice
 Logiudice
+Lo Giudice
 Logoluso
 Logozzo
+Lo Grande
 Logreco
+Lo Greco
 Logrieco
+Lo Grieco
+Lo Groi
+Lo Guasto
 Loguercio
+Lo Guercio
+Lo Guzzo
 Loi
 Loia
+Lo Iacona
 Loiacono
+Lo Iacono
 Loiero
+Lo Iero
 Loio
 Loiodice
 Loisi
 Loiudice
 Loja
 Lojacono
+Lo Jacono
 Lojo
+Lo Joco
 Lojodice
 Lojudice
 Lolli
@@ -21699,11 +21843,16 @@ Lollio
 Lollo
 Loma
 Lomanto
+Lo Manto
 Lomartire
 Lomascolo
+Lo Mascolo
 Lomasto
+Lo Masto
 Lomastro
+Lo Mastro
 Lomazzi
+Lo Mazzo
 Lombardelli
 Lombardello
 Lombardi
@@ -21716,9 +21865,13 @@ Lombino
 Lomellini
 Lomi
 Lomonaco
+Lo Monaco
+Lo Monte
+Lo Muzio
 Lonardelli
 Lonardi
 Lonardo
+Lo Nardo
 Lonate
 Lonati
 Lonato
@@ -21761,28 +21914,47 @@ Longoni
 Longordo
 Longu
 Loni
+Lo Nigro
 Lonis
 Loos
 Loose
 Looz
 Loparco
+Lo Parco
 Lopardo
+Lo Parrino
 Loperfido
+Lo Perfido
 Lopergolo
+Lo Pergolo
 Loperto
 Lopes
 Lopetrone
+Lo Petrone
 Lopez
+Lo Piccolo
+Lo Pinto
 Lopolito
+Lo Polito
 Lopomo
 Lopopolo
 Loporto
+Lo Porto
 Lopreato
+Lo Preato
 Lopreiato
+Lo Preiato
+Lo Prejato
+Lo Prencipe
 Lopreste
+Lo Preste
 Lopresti
+Lo Presti
 Loprete
+Lo Prete
 Loprieno
+Lo Prieno
+Lo Proto
 Lops
 Lora
 Lorai
@@ -21792,6 +21964,9 @@ Lorando
 Loraschi
 Lore
 Lore'
+Lo Re
+Loré
+Lorè
 Loredan
 Loredani
 Lorefice
@@ -21834,17 +22009,25 @@ Lorrai
 Loru
 Loruso
 Lorusso
+Lo Russo
 Losa
 Losacco
 Losano
 Losapio
+Lo Sapio
 Losappio
+Lo Sardo
 Losavio
+Lo Savio
 Loscalzo
+Lo Scalzo
 Loschi
 Loschiavo
+Lo Schiavo
 Loschiavone
+Lo Schiavone
 Losciale
+Lo Sciale
 Losco
 Loseto
 Losi
@@ -21857,10 +22040,13 @@ Lossa
 Lossi
 Losso
 Lostrangio
+Lo Strangio
 Lostuzzi
 Lostuzzo
 Lotari
 Lotario
+Lo Tauro
+Lo Tennero
 Lotito
 Lotta
 Lottaroli
@@ -21869,18 +22055,27 @@ Lotterio
 Lottero
 Lotti
 Lotto
+Lo Tufo
+Lo Turco
 Louvier
 Lovaglio
 Lovagnini
+Lo Valvo
 Lovascio
 Lovati
 Lovato
 Lovecchio
+Lo Vecchio
 Loventre
+Lo Ventre
 Lovera
 Lovercio
+Lo Vercio
+Lo Verde
 Loverro
+Lo Verro
 Loverso
+Lo Verso
 Lovini
 Lovino
 Lovisa
@@ -21894,6 +22089,8 @@ Loviso
 Lovison
 Lovisone
 Lovisoni
+Lo Voi
+Lo Vuolo
 Loy
 Lualdi
 Lubatti
@@ -22157,7 +22354,9 @@ Luti
 Lutri
 Lutro
 Lutzu
+Luvara
 Luvara'
+Luvarà
 Luvieri
 Luvini
 Luvino
@@ -22237,6 +22436,7 @@ Macci
 Maccini
 Maccio
 Maccio'
+Macciò
 Macciocco
 Maccioccu
 Maccione
@@ -22262,6 +22462,7 @@ Machelli
 Machello
 Machi
 Machi'
+Machì
 Machiavelli
 Machiavello
 Machieraldo
@@ -22285,6 +22486,7 @@ Macorig
 Macorini
 Macri
 Macri'
+Macrì
 Macrillo
 Macrina
 Macrini
@@ -22314,16 +22516,21 @@ Maddaluno
 Maddau
 Madde
 Madde'
+Maddé
+Maddè
 Maddei
 Maddeo
 Maddi
 Maddi'
+Maddì
 Maddii
 Maddio
 Maddonna
 Maddonni
 Made
 Made'
+Madé
+Madè
 Madeddu
 Madei
 Madeo
@@ -22355,7 +22562,10 @@ Maestrone
 Maestroni
 Mafezzoli
 Mafezzoni
+Maffe
 Maffe'
+Maffé
+Maffè
 Maffei
 Maffeis
 Maffeo
@@ -22502,6 +22712,7 @@ Magrelli
 Magretti
 Magri
 Magri'
+Magrì
 Magrin
 Magrini
 Magrino
@@ -22621,6 +22832,7 @@ Malacri
 Malacrida
 Malacrino
 Malacrino'
+Malacrinò
 Malafronte
 Malafronti
 Malaggi
@@ -22631,6 +22843,7 @@ Malagoli
 Malagolo
 Malagrino
 Malagrino'
+Malagrinò
 Malaguti
 Malaguzzi
 Malambri
@@ -22827,8 +23040,8 @@ Mandalari
 Mandaliti
 Mandanici
 Mandara'
-Mandaradoni
 Mandarà
+Mandaradoni
 Mandati
 Mandato
 Mandelli
@@ -23261,6 +23474,7 @@ Marcialis
 Marcianesi
 Marciano
 Marciano'
+Marcianò
 Marcias
 Marcigaglia
 Marcigliano
@@ -23796,7 +24010,10 @@ Massarutti
 Massascusa
 Massasogni
 Massazza
+Masse
 Masse'
+Massé
+Massè
 Massei
 Massella
 Masselli
@@ -24281,6 +24498,8 @@ Meletto
 Melfi
 Meli
 Meli'
+MelÍ
+Melì
 Meliado
 Meliado'
 Melibei
@@ -24340,8 +24559,10 @@ Melucci
 Meluccio
 Meluso
 Melzi
-MelÍ
+Meme
 Meme'
+Memé
+Memè
 Memeo
 Memi
 Memmi
@@ -24648,8 +24869,14 @@ Micari
 Micca
 Miccadei
 Micchi
+Miccicche
 Miccicche'
+Miccicché
+Miccicchè
+Micciche
 Micciche'
+Micciché
+Miccichè
 Miccio
 Micciulla
 Micciulli
@@ -24705,7 +24932,10 @@ Michielotto
 Michienzi
 Michini
 Michino
+Micicche
 Micicche'
+Micicché
+Micicchè
 Micieli
 Micillo
 Miclavez
@@ -25177,7 +25407,10 @@ Molara
 Molari
 Molaro
 Molaschi
+Mole
 Mole'
+Molé
+Molè
 Molea
 Molentini
 Molentino
@@ -25272,13 +25505,13 @@ Mondini
 Mondino
 Mondo
 Mondo'
+Mondò
 Mondolfi
 Mondolfo
 Mondon
 Mondone
 Mondoni
 Mondonico
-Mondò
 Monea
 Moneda
 Monega
@@ -25327,7 +25560,9 @@ Monselesan
 Monsellato
 Monserrato
 Monsurro'
+Monta
 Monta'
+Montà
 Montacuti
 Montagano
 Montagna
@@ -25423,13 +25658,13 @@ Monteverde
 Monteverdi
 Montevidoni
 Monti
-Monti Di Sopra
 Montibeller
 Montibello
 Monticelli
 Montico
 Monticone
 Monticoni
+Monti Di Sopra
 Montigiani
 Montin
 Montinari
@@ -25766,6 +26001,8 @@ Mulazzani
 Mulazzano
 Mule
 Mule'
+Mulé
+Mulè
 Mulea
 Muleddu
 Muleni
@@ -25774,11 +26011,16 @@ Mulic
 Mullano
 Mullanu
 Muller
+MÜller
 Mullig
 Mulliri
 Multari
+Munaco
 Munaco'
+Munacò
+Munafo
 Munafo'
+Munafò
 Munaretti
 Munaretto
 Munari
@@ -25819,6 +26061,7 @@ Muratore
 Muratori
 Murciano
 Murdaca
+Murè
 Muredda
 Mureddu
 Murer
@@ -25852,7 +26095,6 @@ Murta
 Murtas
 Murtinu
 Muru
-Murè
 Musa
 Musacchi
 Musacchia
@@ -25861,6 +26103,7 @@ Musacco
 Musarella
 Musaro
 Musaro'
+Musarò
 Musarra
 Musati
 Musazzi
@@ -25876,6 +26119,7 @@ Muscetta
 Muscetti
 Muscetto
 Muscettola
+Muscettola Dup
 Musci
 Muscia
 Musciacchia
@@ -25977,7 +26221,6 @@ Muzzopappa
 Muzzupappa
 My
 Myosotis
-MÜller
 Nacar
 Nacari
 Nacca
@@ -26247,7 +26490,9 @@ Nespoli
 Nespolo
 Nesta
 Nesti
+Nestico
 Nestico'
+Nesticò
 Nesto
 Nestola
 Nestoli
@@ -26260,6 +26505,7 @@ Nevoli
 Niada
 Nibale
 Nibali
+Nibali Dup
 Nicandri
 Nicandro
 Nicastro
@@ -26306,6 +26552,7 @@ Nicolino
 Nicolis
 Nicolo
 Nicolo'
+Nicolò
 Nicolosi
 Nicoloso
 Nicolotti
@@ -26366,7 +26613,9 @@ Nissardi
 Nissola
 Nista
 Nisti
+Nistico
 Nistico'
+Nisticò
 Nisto
 Nistri
 Nistro
@@ -26835,6 +27084,7 @@ Ornella
 Oro
 Oroboni
 Orobono
+Oro  Dup
 Orofiamma
 Orofino
 Oronte
@@ -26845,10 +27095,12 @@ Orrera
 Orrero
 Orri
 Orria
+OrrÍa
 Orrico
 Orritos
+Orru
 Orru'
-OrrÍa
+Orrù
 Orsani
 Orsanigo
 Orsati
@@ -27304,6 +27556,7 @@ Panarone
 Panaroni
 Panasci
 Panasci'
+Panascì
 Panato
 Panatta
 Panatti
@@ -27543,6 +27796,7 @@ Pappacena
 Pappaceno
 Pappada
 Pappada'
+Pappadà
 Pappadopoli
 Pappalardi
 Pappalardo
@@ -27851,6 +28105,8 @@ Patalino
 Patamia
 Patane
 Patane'
+Patané
+Patanè
 Patania
 Patarga
 Patari
@@ -27867,6 +28123,7 @@ Paterni
 Paterniti
 Paterno
 Paterno'
+Paternò
 Paternoster
 Paternostri
 Paternostro
@@ -27908,6 +28165,7 @@ Pau
 Pauciullo
 Pauciulo
 Pauletti
+Pauletti  Dup
 Pauletto
 Pauli
 Paulin
@@ -28005,7 +28263,9 @@ Pederzoli
 Pederzolli
 Pedi
 Pedio
+Pedo
 Pedo'
+Pedò
 Pedone
 Pedoni
 Pedot
@@ -28115,6 +28375,7 @@ Pelli
 Pellicani
 Pellicano
 Pellicano'
+Pellicanò
 Pellicari
 Pellicci
 Pelliccia
@@ -28151,6 +28412,7 @@ Pelosini
 Peloso
 Pelu
 Pelu'
+Pelù
 Pelucchi
 Pelucchini
 Peluchi
@@ -29381,9 +29643,13 @@ Placente
 Placenti
 Placido
 Planca
+Platane
 Platane'
+Platané
+Platanè
 Platani
 Platani'
+Platanì
 Platania
 Platano
 Plataroti
@@ -29419,7 +29685,9 @@ Poddine
 Poddo
 Poddu
 Podenzani
+Podesta
 Podesta'
+Podestà
 Podetti
 Podorieszach
 Podrecca
@@ -29505,6 +29773,7 @@ Polisseni
 Polistena
 Politano
 Politano'
+Politanò
 Politelli
 Politi
 Polito
@@ -29746,7 +30015,9 @@ Potecchi
 Potente
 Potenza
 Potere
+Potesta
 Potesta'
+Potestà
 Potestia
 Potestio
 Poti
@@ -29785,7 +30056,9 @@ Pradelli
 Praderi
 Praderio
 Pradolin
+Praiano
 Praiano'
+Praianò
 Prampolini
 Prandera
 Prandi
@@ -29826,10 +30099,13 @@ Pregiato
 Pregnolato
 Preiano
 Preiano'
+Preianò
 Preitano
 Preite
 Preiti
+Prejano
 Prejano'
+Prejanò
 Prelati
 Prelato
 Prelle
@@ -30243,6 +30519,8 @@ Quero
 Querques
 Querze
 Querze'
+Querzé
+Querzè
 Querzola
 Questioni
 Quida
@@ -30254,7 +30532,10 @@ Quinque
 Quintaba'
 Quintarelli
 Quintavalle
+Quinte
 Quinte'
+Quinté
+Quintè
 Quinti
 Quintili
 Quintilia
@@ -30282,11 +30563,11 @@ Quita
 Quitadamo
 Quito
 Quondam
-Quondam Angelo Maria
-Quondam Carlo
 Quondamangelomaria
+Quondam Angelo Maria
 Quondamatteo
 Quondamcarlo
+Quondam Carlo
 Quos
 Rabagliati
 Rabai
@@ -30432,7 +30713,10 @@ Raimondi
 Raimondo
 Raina
 Rainaldi
+Raine
 Raine'
+Rainé
+Rainè
 Raineri
 Raini
 Rainini
@@ -30653,6 +30937,7 @@ Ravezzani
 Ravi
 Ravida
 Ravida'
+Ravidà
 Raviele
 Ravignani
 Raviola
@@ -30679,7 +30964,6 @@ Razzano
 Razzi
 Razzo
 Re
-Re David
 Rea
 Realacci
 Reale
@@ -30739,6 +31023,7 @@ Recupido
 Reda
 Redaelli
 Redavid
+Re David
 Reddavide
 Redeghieri
 Redi
@@ -30984,6 +31269,7 @@ Ricciuti
 Ricciuto
 Ricco
 Ricco'
+Riccò
 Riccobaldi
 Riccobene
 Riccobon
@@ -31405,6 +31691,7 @@ Romanini
 Romanino
 Romano
 Romano'
+Romanò
 Romanoni
 Rombaldi
 Rombaldo
@@ -31877,7 +32164,9 @@ Sabini
 Sabino
 Sabio
 Sabiu
+Sacca
 Sacca'
+Saccà
 Saccani
 Saccardi
 Saccardo
@@ -31899,7 +32188,6 @@ Saccomano
 Saccon
 Saccone
 Sacconi
-Saccà
 Sacerdote
 Sacerdoti
 Sacro
@@ -32059,7 +32347,9 @@ Salustro
 Salute
 Saluti
 Saluzzi
+Salva
 Salva'
+Salvà
 Salvadei
 Salvadeo
 Salvaderi
@@ -32150,7 +32440,6 @@ Samuel
 Samuele
 Samueli
 Samuelli
-San Germano
 Sanapo
 Sanavio
 Sanbiagio
@@ -32172,7 +32461,9 @@ Sandano
 Sandella
 Sandomenico
 Sandon
+Sandona
 Sandona'
+Sandonà
 Sandonini
 Sandonnini
 Sandra
@@ -32199,6 +32490,7 @@ Sanfratello
 Sangalli
 Sangallo
 Sangermano
+San Germano
 Sangervasi
 Sangervasio
 Sanges
@@ -32247,6 +32539,7 @@ Sansevero
 Sansimone
 Sansiverino
 Sanso'
+Sansò
 Sanson
 Sansone
 Sansonetti
@@ -32255,9 +32548,7 @@ Sansoni
 Sansossio
 Sansovini
 Sansovino
-Sansò
 Sant
-Sant'Elia
 Santa
 Santabarbara
 Santacaterina
@@ -32288,6 +32579,7 @@ Santarsiero
 Santato
 Santececca
 Santelia
+Sant'Elia
 Santella
 Santelli
 Santeramo
@@ -32298,6 +32590,7 @@ Santhia'
 Santi
 Santia
 Santia'
+Santià
 Santilli
 Santillo
 Santimaria
@@ -32402,6 +32695,7 @@ Sarbia
 Sarchi
 Sarci
 Sarci'
+Sarcì
 Sarcina
 Sarcinelli
 Sarcone
@@ -32720,9 +33014,11 @@ Scarenzi
 Scarenzio
 Scarfi
 Scarfi'
+Scarfì
 Scarfia
 Scarfo
 Scarfo'
+Scarfò
 Scariati
 Scaricamazza
 Scarimbola
@@ -32902,6 +33198,7 @@ Schiratto
 Schirinzi
 Schiro
 Schiro'
+Schirò
 Schirone
 Schironi
 Schiros
@@ -32945,7 +33242,9 @@ Scialla
 Scialli
 Sciallino
 Sciallo
+Scialo
 Scialo'
+Scialò
 Scialoia
 Scialpi
 Sciamanna
@@ -33029,6 +33328,8 @@ Scipione
 Scipioni
 Scire
 Scire'
+Sciré
+Scirè
 Scirea
 Sciri
 Sciria
@@ -33192,6 +33493,7 @@ Seche
 Sechi
 Secli
 Secli'
+Seclì
 Secoli
 Secolo
 Secondi
@@ -33233,6 +33535,8 @@ Segneri
 Segoloni
 Segre
 Segre'
+Segré
+Segrè
 Segreti
 Segreto
 Seguin
@@ -33387,6 +33691,7 @@ Serrajotto
 Serrani
 Serrano
 Serrano'
+Serranò
 Serrao
 Serrapica
 Serrapico
@@ -33534,10 +33839,11 @@ Sgobio
 Sgotti
 Sgro
 Sgro'
+SgrÓ
+Sgrò
 Sgroi
 Sgroia
 Sgromo
-SgrÓ
 Sguaitamatti
 Sgueglia
 Sguera
@@ -33607,6 +33913,7 @@ Sighieri
 Sighinolfi
 Sigillo
 Sigillo'
+Sigillò
 Sigismondi
 Sigismondo
 Signanini
@@ -34154,6 +34461,7 @@ Spampinato
 Spanalatte
 Spano
 Spano'
+Spanò
 Spanu
 Sparace
 Sparacello
@@ -34169,6 +34477,7 @@ Sparnocchia
 Sparoni
 Sparta
 Sparta'
+Spartà
 Spartano
 Sparvoli
 Spasiano
@@ -34471,7 +34780,10 @@ Stefana
 Stefanacci
 Stefanachi
 Stefanazzi
+Stefane
 Stefane'
+Stefané
+Stefanè
 Stefanel
 Stefanelli
 Stefanello
@@ -34817,11 +35129,17 @@ Tacconi
 Taccori
 Taci
 Tacus
+Tadde
 Tadde'
+Taddé
+Taddè
 Taddei
 Taddeo
 Taddia
+Tade
 Tade'
+Tadé
+Tadè
 Tadei
 Tadeo
 Tadiello
@@ -34927,7 +35245,9 @@ Talmone
 Taloni
 Talotti
 Tam
+Tama
 Tama'
+Tamà
 Tamagni
 Tamagnini
 Tamagno
@@ -34962,7 +35282,10 @@ Tamburri
 Tamburrini
 Tamburrino
 Tamburro
+Tame
 Tame'
+Tamé
+Tamè
 Tamelli
 Tamellin
 Tamellini
@@ -35396,6 +35719,7 @@ Testagrossa
 Testaguzza
 Testai
 Testai'
+Testaì
 Testasecca
 Testatonda
 Testaverde
@@ -35860,11 +36184,11 @@ Torlo
 Tormen
 Tormena
 Tormene
+Tornabè
 Tornabene
 Tornaboni
 Tornabuoni
 Tornabuono
-Tornabè
 Tornaghi
 Tornago
 Tornaincasa
@@ -36067,7 +36391,10 @@ Trapani
 Trapassi
 Trapasso
 Trapattoni
+Trape
 Trape'
+Trapé
+Trapè
 Trapella
 Trapelli
 Trapletti
@@ -36107,8 +36434,6 @@ Traversino
 Traverso
 Travuzzi
 Traxino
-Tre Re
-Tre Re'
 Treachi
 Trebaldi
 Trebbi
@@ -36144,6 +36469,8 @@ Trento
 Trequattrini
 Trere
 Trere'
+Tre Re
+Tre Re'
 Trerotola
 Trerotoli
 Tres
@@ -36452,6 +36779,7 @@ Turrina
 Turrini
 Turrino
 Turrisi
+Turrisi Dup
 Turriziani
 Turro
 Tursi
@@ -36518,7 +36846,10 @@ Ugaro
 Ugazio
 Ugdulena
 Ugenti
+Ugge
 Ugge'
+Uggé
+Uggè
 Uggenti
 Uggeri
 Uggetti
@@ -36943,9 +37274,9 @@ Vartolo
 Varuzza
 Varva
 Varvara
+Varvarà
 Varvaro
 Varvarotto
-Varvarà
 Varveri
 Vasalli
 Vasallo
@@ -37215,8 +37546,8 @@ Vernia
 Vernieri
 Vernizzi
 Verno
-Vernocchi
 Vernò
+Vernocchi
 Vero
 Verola
 Veroli
@@ -37411,7 +37742,6 @@ Vilardo
 Vilasi
 Vilella
 Villa
-Villa Santa
 Villacci
 Villaggio
 Villamagna
@@ -37425,6 +37755,7 @@ Villar
 Villari
 Villas
 Villasanta
+Villa Santa
 Villaz
 Villella
 Villi
@@ -37528,6 +37859,7 @@ Visocaro
 Visocchi
 Visona
 Visona'
+Visonà
 Visone
 Vissani
 Vissio
@@ -37657,7 +37989,10 @@ Volli
 Volo
 Volona'
 Volonghi
+Volonte
 Volonte'
+Volonté
+Volontè
 Volpat
 Volpati
 Volpato
@@ -38036,7 +38371,9 @@ Zaoli
 Zapata
 Zappa
 Zappacosta
+Zappala
 Zappala'
+Zappalà
 Zappalaglio
 Zappale
 Zappalorti
@@ -38258,6 +38595,7 @@ Zimelli
 Zimmari
 Zimmaro
 Zin
+Zinà
 Zinara
 Zinati
 Zinato
@@ -38285,10 +38623,10 @@ Zini
 Zinicola
 Zinna
 Zinna'
+Zinnà
 Zinni
 Zinno
 Zintilini
-Zinà
 Ziotti
 Zipari
 Ziparo
@@ -38422,7 +38760,9 @@ Zuari
 Zuaro
 Zubani
 Zucca
+Zuccala
 Zuccala'
+Zuccalà
 Zuccarelli
 Zuccarello
 Zuccari
